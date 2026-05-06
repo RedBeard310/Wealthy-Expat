@@ -1,0 +1,561 @@
+# Outbound links
+
+707 URL occurrences (273 unique URLs), grouped by category.
+
+## booking (252 occurrences)
+
+- https://wealthyexpatcall.com/book
+  - 58 occurrences • sources: video_description • e.g. on "Dubai Nightlife: Best Clubs, Bars, and Beach Clubs"
+- https://www.wealthyexpatclient.com/calls?video=vUUZsgmGMb0
+  - 1 occurrence • sources: video_description • e.g. on "Europe Visa Free is Now DEAD - New Surveillance System"
+- https://www.wealthyexpatclient.com/calls?video=Dmw6-JWnUmY
+  - 1 occurrence • sources: video_description • e.g. on "10 Countries That Sell Their Passports in 2025"
+- https://www.wealthyexpat.com/#calendly
+  - 37 occurrences • sources: video_description • e.g. on "10 Countries Our Millionaire Clients Move To"
+- https://calendly.com/rafaelcintron/tax-advice-call-with-rafael
+  - 8 occurrences • sources: video_description • e.g. on "Fastest Way to European Citizenship: Malta Citizenship by Investment in 2021"
+- https://www.wealthyexpatclient.com/calls?video=ZU0uWd92BhU
+  - 1 occurrence • sources: video_description • e.g. on "Why I Chose St Kitts and Nevis Citizenship by Investment"
+- https://www.wealthyexpatclient.com/calls?video=HBSyTz7VyYE
+  - 1 occurrence • sources: video_description • e.g. on "The Best Citizenships in a New World Order"
+- https://wealthyexpat.com/book-call
+  - 8 occurrences • sources: video_description • e.g. on "The Best Golden Visa No One Knows About"
+- https://wealthyexpatnow.com/3-countries
+  - 1 occurrence • sources: video_description • e.g. on "3 Popular Countries You Should NEVER Move To"
+- https://www.wealthyexpatclient.com/calls?video=d-h7VO5sfy0
+  - 1 occurrence • sources: video_description • e.g. on "Top 10 Countries Without Digital ID or CBDCs"
+- https://wealthyexpatcall.com/ww3
+  - 1 occurrence • sources: video_description • e.g. on "How to Prepare for World War 3: Ultimate Guide"
+- https://wealthyexpat.com/apply
+  - 14 occurrences • sources: video_description • e.g. on "Moving to Dubai Is Now EASIER and CHEAPER: Lowest Price for Residence by Investment Ever in Dubai"
+- https://wealthyexpatcall.com/dubai-crypto
+  - 1 occurrence • sources: video_description • e.g. on "Dubai New Crypto Regulations Are Here (Important)"
+- https://wealthyexpatcall.com/andrew-tate
+  - 1 occurrence • sources: video_description • e.g. on "Andrew Tate's INSANE Passport Strategy (Breakdown)"
+- https://wealthyexpatcall.com/trump-25
+  - 1 occurrence • sources: video_description • e.g. on "US Citizens Must Watch: the Future with Trump"
+- https://www.wealthyexpatclient.com/calls?video=bSGxGGJ6F8s
+  - 1 occurrence • sources: video_description • e.g. on "I Lived 3 Years in Dubai: Should You Move There? The Harsh Truth"
+- https://www.wealthyexpatclient.com/calls?video=e2lBBqJ7dj0
+  - 1 occurrence • sources: video_description • e.g. on "I Visited 90 Countries: These Are the Best Ones for Citizenship"
+- https://wealthyexpatcall.com/dubai-visas
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Government Canceling Visas: Must Know This"
+- https://wealthyexpatcall.com/15countries
+  - 1 occurrence • sources: video_description • e.g. on "Top 15 Countries to Buy Citizenship and How"
+- https://wealthyexpatcall.com/san-marino
+  - 1 occurrence • sources: video_description • e.g. on "Secret Tax Haven Nobody Is Talking About"
+- https://www.wealthyexpatclient.com/calls?video=lTEww8k-xUc
+  - 1 occurrence • sources: video_description • e.g. on "$75,000 Passport: Botswana Launches Citizenship by Investment"
+- https://www.wealthyexpatclient.com/calls?video=QLFHOPTDBlo
+  - 1 occurrence • sources: video_description • e.g. on "Canadians are Fleeing with their Wealth: 120,000+ Gone"
+- https://www.wealthyexpatclient.com/calls
+  - 6 occurrences • sources: video_description • e.g. on "The Best Passport No One Talks About (And How To Get It)"
+- https://wealthyexpatcall.com/dubai-worst
+  - 1 occurrence • sources: video_description • e.g. on "What I HATE About Dubai"
+- https://wealthyexpatcall.com/canada
+  - 1 occurrence • sources: video_description • e.g. on "Canada is a Terrible Country: How to Move Out"
+- https://www.wealthyexpatclient.com/calls?video=8G5i0avq8no
+  - 1 occurrence • sources: video_description • e.g. on "Which Countries Are Not a Part of the Great Reset?"
+- https://www.wealthyexpatclient.com/calls?video=dTh2Apr8VXw
+  - 1 occurrence • sources: video_description • e.g. on "Avoid These MISTAKES Before Moving to Dubai!"
+- https://wealthyexpatcall.com/stkittspassport
+  - 1 occurrence • sources: video_description • e.g. on "St Kitts Passport In Just 60 Days??? New 2023 Rules"
+- https://www.wealthyexpatclient.com/calls?video=VhjpJTCWTdY
+  - 1 occurrence • sources: video_description • e.g. on "Digital ID and CBDCs: How to Escape and Protect Yourself"
+- https://www.wealthyexpatclient.com/calls?video=QXqXG0lJNRg
+  - 1 occurrence • sources: video_description • e.g. on "Why I Chose Serbian Citizenship Over Caribbean"
+- https://wealthyexpatcall.com/bali
+  - 1 occurrence • sources: video_description • e.g. on "Bali NEW 10 Year Golden Visa"
+- https://www.wealthyexpatclient.com/calls?video=UBahTuD96pU
+  - 1 occurrence • sources: video_description • e.g. on "The West is failing, this is how the wealthy prepare"
+- https://app.iclosed.io/e/wealthyexpat/call?video=3xgSe-V--TY
+  - 1 occurrence • sources: video_description • e.g. on "Italy Just Killed Citizenship by Descent? New Law Explained"
+- https://wealthyexpatcall.com/cheapest-passport
+  - 1 occurrence • sources: video_description • e.g. on "Cheapest Passport For Sale: Citizenship by Investment"
+- https://wealthyexpatcall.com/spain
+  - 1 occurrence • sources: video_description • e.g. on "Spanish Citizenship in 2 Years: How and Should You Do It? | Spain Citizenship Fast Track Program"
+- https://wealthyexpatcall.com/uae-passport
+  - 1 occurrence • sources: video_description • e.g. on "UAE: Best Passport in the World?"
+- https://www.wealthyexpatclient.com/calls?video=OkYkJ6AO1_s
+  - 1 occurrence • sources: video_description • e.g. on "3 Reasons You Shouldn't Move to Dubai (Truth)"
+- https://wealthyexpat.com/apply/
+  - 1 occurrence • sources: video_description • e.g. on "The Cheapest Passport For Sale: Cheap Citizenship by Investment"
+- https://calendly.com/wealthy-expat/vip
+  - 1 occurrence • sources: video_description • e.g. on "PORTUGAL GOLDEN VISA ULTIMATE GUIDE: Portuguese Citizenship and Residence in 2021-2022"
+- https://www.wealthyexpatclient.com/calls?video=OYQ_gWkuzs4
+  - 1 occurrence • sources: video_description • e.g. on "Why Millionaires Are Flocking to Serbia in 2025"
+- https://www.wealthyexpatclient.com/calls?video=66cXEgpeI9M
+  - 1 occurrence • sources: video_description • e.g. on "The Perfect Plan B for Millionaires Uncovered"
+- https://www.wealthyexpatclient.com/calls?video=0u6YdJy_ciM
+  - 1 occurrence • sources: video_description • e.g. on "Panama Citizenship Is Finally Here: New Golden Visa Explained"
+- https://wealthyexpatcall.com/crypto-licenses
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Welcomes Crypto! New Crypto Licenses Issued"
+- https://wealthyexpatcall.com/dubai-banks
+  - 1 occurrence • sources: video_description • e.g. on "Best Banks in Dubai: Banking for Business & Crypto"
+- https://www.wealthyexpatclient.com/calls?video=-eKE32jCCws
+  - 1 occurrence • sources: video_description • e.g. on "The Coming EU Travel Ban"
+- https://wealthyexpatcall.com/badpassport
+  - 1 occurrence • sources: video_description • e.g. on "If You Have a Bad Passport, Watch This"
+- https://www.wealthyexpatclient.com/calls?video=Yk74cTnXLWE
+  - 1 occurrence • sources: video_description • e.g. on "12 Fastest Countries for Citizenship by investment"
+- https://www.wealthyexpatclient.com/calls?video=P0QBXrLV_t4
+  - 1 occurrence • sources: video_description • e.g. on "Why German Millionaires Are Suddenly Leaving in Large Numbers"
+- https://www.wealthyexpatclient.com/calls?video=32hfk5hqMOE
+  - 1 occurrence • sources: video_description • e.g. on "EU SHUTS DOWN Malta’s Citizenship Program"
+- https://www.wealthyexpatclient.com/calls?video=0BWhdFl5d6o
+  - 1 occurrence • sources: video_description • e.g. on "I Bought a Caribbean Passport for $250K… And Regret It"
+- https://wealthyexpatcall.com/3-passports
+  - 1 occurrence • sources: video_description • e.g. on "Top 3 Passports Rich People Buy"
+- https://www.wealthyexpatclient.com/calls?video=y-p2jSJ4eVc
+  - 1 occurrence • sources: video_description • e.g. on "Best Countries for World War 3"
+- https://www.wealthyexpatclient.com/calls?video=7GZZx-E97s0
+  - 1 occurrence • sources: video_description • e.g. on "Caribbean Passports at Risk: Europe Access Ending Soon?"
+- https://wealthyexpatcall.com/free-countries
+  - 1 occurrence • sources: video_description • e.g. on "Move To 1 Of THESE 4 Countries NOW - Escape The Matrix"
+- https://www.wealthyexpatclient.com/calls?video=Uh3A64QwKEU
+  - 1 occurrence • sources: video_description • e.g. on "By 2030 freedom will be gone, this is how the wealthy are preparing"
+- https://wealthyexpatcall.com/dubai-donts
+  - 1 occurrence • sources: video_description • e.g. on "I Wish I Knew This Before Moving to Dubai..."
+- https://www.wealthyexpatclient.com/calls?video=veEm8GnoX8o
+  - 1 occurrence • sources: video_description • e.g. on "El Salvador - The Next Singapore?"
+- https://wealthyexpatcall.com/us-dubai
+  - 1 occurrence • sources: video_description • e.g. on "American in Dubai: Honest Review"
+- https://www.wealthyexpatclient.com/calls?video=gOX0ZXjb3_4
+  - 1 occurrence • sources: video_description • e.g. on "new UAE tax rules: what they don’t tell you"
+- https://wealthyexpatcall.com/ceo
+  - 1 occurrence • sources: video_description • e.g. on "Safest Countries to Survive World War 3"
+- https://www.wealthyexpatclient.com/calls?video=YYKCAQBMNFY
+  - 1 occurrence • sources: video_description • e.g. on "12 Countries to Escape 2030 and the Great Reset Agenda"
+- https://www.wealthyexpatclient.com/calls?video=TCaW5xC-duQ
+  - 1 occurrence • sources: video_description • e.g. on "Best Citizenships You Can Buy if You're a Millionaire"
+- https://www.wealthyexpatclient.com/calls?video=YdRWs53tVv0
+  - 1 occurrence • sources: video_description • e.g. on "Dont Open a Company in Dubai Before Watching This"
+- https://www.wealthyexpatclient.com/calls?video=-c37n3TpZM8
+  - 1 occurrence • sources: video_description • e.g. on "Uruguay is becoming the new expat hotspot | Here's why"
+- https://wealthyexpat.com/#CALENDLY
+  - 1 occurrence • sources: video_description • e.g. on "Hiring Her Will Save You 5 Hours Every Day"
+- https://www.wealthyexpatclient.com/calls?video=UTzz0Ljix1I
+  - 1 occurrence • sources: video_description • e.g. on "Portugal Golden Visa Shocking Update: 15 Years to Citizenship?!?"
+- https://www.wealthyexpatclient.com/calls?video=YjeMkwVMwOM
+  - 1 occurrence • sources: video_description • e.g. on "German Citizens Can't Leave Without Permission | This Changes Everything"
+- https://www.wealthyexpatclient.com/calls?video=IA1u_FKBT7A
+  - 1 occurrence • sources: video_description • e.g. on "24 Countries Where You Can Buy Citizenship in 2026"
+- https://www.wealthyexpatclient.com/calls?video=0UDJcqEkcMA
+  - 1 occurrence • sources: video_description • e.g. on "Top 10 Best Countries to Move to in 2025"
+- https://www.wealthyexpatclient.com/calls?video=xTw0qanhX6E
+  - 1 occurrence • sources: video_description • e.g. on "Traveling the World with 3 Passports: My Crazy Experience"
+- https://www.wealthyexpatclient.com/calls?video=mJxdE8O-EKQ
+  - 1 occurrence • sources: video_description • e.g. on "11 Countries Giving Citizenship Easily in 2025"
+- https://wealthyexpatcall.com/monaco-tax
+  - 1 occurrence • sources: video_description • e.g. on "Living in Monaco: Pay Zero Taxes for Life by Becoming a Monaco Resident | Monaco Taxes Explained"
+- https://www.wealthyexpatclient.com/calls?video=_n4CuoKyzBI
+  - 1 occurrence • sources: video_description • e.g. on "Watch This Before You Buy a Caribbean Passport!"
+- https://wealthyexpatcall.com/dubai-singapore
+  - 1 occurrence • sources: video_description • e.g. on "Dubai VS Singapore: The BEST City in the World?"
+- https://wealthyexpatcall.com/150k
+  - 3 occurrences • sources: video_description, pinned_comment • e.g. on "Why I Bought a Passport for $150,000 | Citizenship by Investment St Kitts and Nevis Explained"
+- https://www.wealthyexpatclient.com/calls?video=-E_ZTJeT0FY
+  - 1 occurrence • sources: video_description • e.g. on "3 citizenships to avoid like the plague - you've been warned"
+- https://www.wealthyexpatclient.com/calls?video=GB7DiV3eh64
+  - 1 occurrence • sources: video_description • e.g. on "I Traveled to China — What I Saw BLEW My Mind"
+- https://www.wealthyexpatclient.com/calls?video=Kb4v049Faaw
+  - 1 occurrence • sources: video_description • e.g. on "25+ Citizenship by Investment Programs in 2026: Which One to Get?"
+- https://wealthyexpatcall.com/2023taxes
+  - 1 occurrence • sources: video_description • e.g. on "New 9% Tax in Dubai: The TRUTH"
+- https://wealthyexpatcall.com/healthcare
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Healthcare: Best Doctors in the World?"
+- https://wealthyexpatcall.com/dubai-nightlife
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Nightlife: Best Clubs, Bars, and Beach Clubs"
+- https://www.wealthyexpatclient.com/calls?video=lAyQSiHE3As
+  - 1 occurrence • sources: video_description • e.g. on "Safest Countries to Live in the World in 2025"
+- https://wealthyexpatcall.com/retirement
+  - 1 occurrence • sources: video_description • e.g. on "5 Easiest Countries to Retire Comfortably"
+- https://wealthyexpatcall.com/dubai-2023
+  - 1 occurrence • sources: video_description • e.g. on "2023 Will Be a Hard Year for Dubai..."
+- https://www.wealthyexpatclient.com/calls?video=fCJQzCpYHpk
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Banking: Don't Make These Mistakes with Dubai Banks"
+- https://www.wealthyexpatclient.com/calls?video=ciuFswdpZ0E
+  - 1 occurrence • sources: video_description • e.g. on "Best Countries to Buy Real Estate as a Millionaire"
+- https://www.wealthyexpatclient.com/calls?video=CRU0xB-8WPU
+  - 1 occurrence • sources: video_description • e.g. on "By 2030 dual citizenship will be banned, how the wealthy prepare"
+- https://www.wealthyexpatclient.com/calls?video=lHMQ2SFfveQ
+  - 1 occurrence • sources: video_description • e.g. on "UAE Citizenship is Now Possible! How to Get It"
+- https://wealthyexpatcall.com/crypto
+  - 1 occurrence • sources: video_description • e.g. on "4 Best Countries for Crypto Millionaires"
+- https://wealthyexpatclient.com/call
+  - 1 occurrence • sources: video_description • e.g. on "Is Dubai the Best Place for 0% Tax? Find Out Here"
+- https://www.wealthyexpatclient.com/calls?video=CTEqfA2ICjM
+  - 1 occurrence • sources: video_description • e.g. on "20 Countries That Sell Their Passports in 2025"
+- https://wealthyexpatcall.com/terrible-passport
+  - 1 occurrence • sources: video_description • e.g. on "The New Terrible Citizenship by Investment Program"
+- https://wealthyexpatcall.com/crypto-dubai
+  - 1 occurrence • sources: video_description • e.g. on "Dubai: World's Best Place for Crypto?"
+- https://wealthyexpatcall.com/stkitts
+  - 1 occurrence • sources: video_description • e.g. on "My $150,000 Passport: Citizenship by Investment with St Kitts and Nevis Passport Explained"
+- https://www.wealthyexpatclient.com/calls?video=4FM8RFDkO7c
+  - 1 occurrence • sources: video_description • e.g. on "CHILE: The Perfect Plan B Country? I Came to Find Out"
+- https://www.wealthyexpatclient.com/calls?video=q76aohyaKP0
+  - 1 occurrence • sources: video_description • e.g. on "Paraguay Just Killed Crypto Investors!"
+- https://www.wealthyexpatclient.com/calls?video=jJMUxQURRuk
+  - 1 occurrence • sources: video_description • e.g. on "The UAE Golden Visa No One’s Talking About (No Investment Required)"
+- https://www.wealthyexpatclient.com/calls?video=mTFs8yJqK2g
+  - 1 occurrence • sources: video_description • e.g. on "3 Passports You Can Get in LESS THAN 6 Months"
+- https://www.wealthyexpatclient.com/calls?video=wyjkmZsNK0E
+  - 1 occurrence • sources: video_description • e.g. on "Exploring Cambodia: Asia's Citizenship by Investment Program"
+- https://www.wealthyexpatclient.com/calls?video=ypQfosBotd4
+  - 1 occurrence • sources: video_description • e.g. on "Leave Australia Before 2030 - Unrealized Gains Tax Soon 🇦🇺"
+- https://www.wealthyexpatclient.com/calls?video=I_i3QtXYS08
+  - 1 occurrence • sources: video_description • e.g. on "UK New 20% Exit Tax: What You Need to Know"
+- https://www.wealthyexpatclient.com/calls?video=Qcwa-gciaxs
+  - 1 occurrence • sources: video_description • e.g. on "The Next Country to Collapse? Millionaires Are Already Leaving"
+- https://wealthyexpatcall.com/dubai-strict
+  - 1 occurrence • sources: video_description • e.g. on "How Strict is Dubai? | The Reality of Living in Dubai"
+- https://www.wealthyexpatclient.com/calls?video=DWVn_BO-oa0
+  - 1 occurrence • sources: video_description • e.g. on "If You Have Crypto, You MUST Do This Before 2027"
+- https://wealthyexpatcall.com/golden-visa
+  - 1 occurrence • sources: video_description • e.g. on "Dubai NEW 10 Year Visa is Here!"
+- https://wealthyexpatcall.com/eu-goldenvisas
+  - 1 occurrence • sources: video_description • e.g. on "Europe Golden Visa Changes: Must Know This"
+- https://www.wealthyexpatclient.com/calls?video=ivX1Y7LsYko
+  - 1 occurrence • sources: video_description • e.g. on "4 Years with my St Kitts Passport - Honest Review"
+- https://www.wealthyexpatclient.com/calls?video=SaDYJ1yixgU
+  - 1 occurrence • sources: video_description • e.g. on "Crypto Crackdown Continues: 7 Countries That Won’t Rob You Blind"
+- https://wealthyexpatcall.com/freezone
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Just Changed the Freezone Visa... (Terrible)"
+- https://wealthyexpatgroup.com/crypto-citizenships
+  - 1 occurrence • sources: video_description • e.g. on "Crypto Citizenships: Which Countries Accept Crypto?"
+- https://wealthyexpatcall.com/best-citizenships
+  - 1 occurrence • sources: video_description • e.g. on "Top 3 Passports The Wealthy Are Buying: Best Passports for Sale through Citizenship by Investment"
+- https://wealthyexpatcall.com/dominica
+  - 1 occurrence • sources: video_description • e.g. on "Dominica Citizenship by Investment Case Study: Dominica Passport"
+- https://www.wealthyexpatclient.com/calls?video=ShmGaQl8Ka8
+  - 1 occurrence • sources: video_description • e.g. on "Georgia Now Sells Citizenship – What You Need to Know"
+- https://wealthyexpatcall.com/best-passport
+  - 1 occurrence • sources: video_description • e.g. on "The Best Passport To Buy If You're Rich: Citizenship by Investment"
+- https://wealthyexpatcall.com/dubai-hot
+  - 1 occurrence • sources: video_description • e.g. on "WEATHER in DUBAI: Everything You Need to Know"
+- https://wealthyexpatcall.com/15-tax
+  - 1 occurrence • sources: video_description • e.g. on "Dubai New 15% Tax: What You Need to Know"
+- https://wealthyexpatcall.com/re-citizenship
+  - 1 occurrence • sources: video_description • e.g. on "Get Citizenship by Buying Real Estate: Ultimate Guide"
+- https://www.wealthyexpatclient.com/calls?video=JgRWr24mMqE
+  - 1 occurrence • sources: video_description • e.g. on "Malta Relaunches Citizenship by Investment! New Rules Will Shock You"
+- https://www.wealthyexpatclient.com/calls?video=-5CspOORDJk
+  - 1 occurrence • sources: video_description • e.g. on "Best Plan B Citizenships for European Citizens"
+- https://wealthyexpatcall.com/wio-bank
+  - 1 occurrence • sources: video_description • e.g. on "New Dubai Online Bank is HERE"
+- https://www.wealthyexpatclient.com/calls?video=e-Kg2O4CsEY
+  - 1 occurrence • sources: video_description • e.g. on "Zero Tax for 20 Years? Turkey’s Wild Bid for Global Wealth"
+- https://wealthyexpat.com/#calendly
+  - 1 occurrence • sources: video_description • e.g. on "I Quit Drinking Alcohol, It Changed My Life"
+- https://wealthyexpatcall.com/book-here
+  - 1 occurrence • sources: video_description • e.g. on "Five Citizenships to AVOID At All Costs"
+- https://wealthyexpatcall.com/7-residences
+  - 1 occurrence • sources: video_description • e.g. on "7 Easiest Second Residence Permits in 2022"
+- https://www.wealthyexpatclient.com/calls?video=MWjGotO0ojc
+  - 1 occurrence • sources: video_description • e.g. on "Why Rich People Never Use These Countries"
+
+## main_website (51 occurrences)
+
+- https://wealthyexpatcall.com/
+  - 29 occurrences • sources: video_description • e.g. on "Traveling with a St Kitts and Nevis Passport (Update)"
+- https://wealthyexpat.com
+  - 19 occurrences • sources: video_description • e.g. on "7 Unspoken Countries That Don’t Tax You"
+- https://www.wealthyexpat.com
+  - 1 occurrence • sources: video_description • e.g. on "Portugal Shocks Expats: Citizenship Time Increased to 10 Years!"
+- https://www.wealthyexpat.com/
+  - 2 occurrences • sources: video_description • e.g. on "New Citizenship Tax: Why Europeans Are Renouncing Citizenship"
+
+## social (249 occurrences)
+
+- https://youtu.be/-0QztXe_ptA
+  - 13 occurrences • sources: video_description • e.g. on "UAE: Best Passport in the World?"
+- https://www.skool.com/wealthyexpat
+  - 31 occurrences • sources: video_description, pinned_comment • e.g. on "The New EASY Citizenship Program is Here"
+- https://youtu.be/av3dov8NDBw
+  - 2 occurrences • sources: video_description • e.g. on "What I HATE About Dubai"
+- https://youtu.be/Yk74cTnXLWE
+  - 7 occurrences • sources: video_description • e.g. on "10 Best Countries to Move to from the USA"
+- https://youtu.be/LDIpFgQ57Rc
+  - 8 occurrences • sources: video_description • e.g. on "3 Reasons You Shouldn't Move to Dubai (Truth)"
+- https://youtu.be/wqZRK36SFqo
+  - 2 occurrences • sources: video_description • e.g. on "How Strict is Dubai? | The Reality of Living in Dubai"
+- https://youtu.be/MGzceGSxnWc
+  - 6 occurrences • sources: video_description • e.g. on "Fastest Way to European Citizenship: Malta Citizenship by Investment in 2021"
+- https://youtu.be/jFFDdget6BA
+  - 4 occurrences • sources: video_description • e.g. on "Traveling with a St Kitts and Nevis Passport (Update)"
+- https://youtu.be/kJneRIziV2g
+  - 4 occurrences • sources: video_description • e.g. on "Spanish Citizenship in 2 Years: How and Should You Do It? | Spain Citizenship Fast Track Program"
+- https://youtu.be/_4uubPFgKaY
+  - 4 occurrences • sources: video_description • e.g. on "Dubai VS Singapore: The BEST City in the World?"
+- https://youtu.be/AayT058M438
+  - 7 occurrences • sources: video_description • e.g. on "Best Countries for Canadians in 2024 | Leave Canada"
+- https://youtu.be/SAWyKE8mG-Y?si=wU2B6TU_ejS7kaiR
+  - 1 occurrence • sources: video_description • e.g. on "UAE 0% Tax Residency is Now on EASY Mode (Anyone Can Get It)"
+- https://youtu.be/kknwuLIyUAk
+  - 2 occurrences • sources: video_description • e.g. on "2023 Will Be a Hard Year for Dubai..."
+- https://youtu.be/nnbNA183K9s
+  - 5 occurrences • sources: video_description • e.g. on "Five Passports to AVOID Like the Plague"
+- https://youtu.be/C7dUbLP5MLU
+  - 3 occurrences • sources: video_description • e.g. on "American in Dubai: Honest Review"
+- https://youtu.be/zGUIgFzO-VU
+  - 1 occurrence • sources: video_description • e.g. on "UAE New 9% Tax: The End of Dubai?"
+- https://youtu.be/tmlF9UvcDuE
+  - 2 occurrences • sources: video_description • e.g. on "10 Countries That Sell Their Passports in 2025"
+- https://youtu.be/9bLrNi9TskQ
+  - 1 occurrence • sources: video_description • e.g. on "Touring a $2.5 Million Dubai Villa: Luxury or Overpriced?"
+- https://youtu.be/M_UJGL6rFeo
+  - 1 occurrence • sources: video_description • e.g. on "Worst Countries for Crypto (#3 will Surprise You)"
+- https://www.youtube.com/watch?v=7lyfL_X2FA0
+  - 1 occurrence • sources: video_description • e.g. on "Tax Free Caribbean Citizenships: Worth It?"
+- https://youtu.be/elz1rjjATIU
+  - 2 occurrences • sources: video_description • e.g. on "I Wish I Knew This Before Moving to Dubai..."
+- https://youtu.be/kuAT0EzQ6qo
+  - 3 occurrences • sources: video_description • e.g. on "Is Dubai the Best Place for 0% Tax? Find Out Here"
+- https://youtu.be/WJ13hZ_XG_w
+  - 5 occurrences • sources: video_description • e.g. on "Dubai Real Estate: Everything You NEED To Know!"
+- https://youtu.be/DWVn_BO-oa0
+  - 1 occurrence • sources: video_description • e.g. on "Your Crypto Isn’t Safe: Freezes & Seizures Are Here"
+- https://youtu.be/znB0ONszo3I
+  - 4 occurrences • sources: video_description • e.g. on "The 6 Month Passport No One Talks About"
+- https://youtu.be/fCJQzCpYHpk
+  - 2 occurrences • sources: video_description • e.g. on "Avoid These MISTAKES Before Moving to Dubai!"
+- https://youtu.be/VNgshQIjXmU
+  - 3 occurrences • sources: video_description • e.g. on "Traveling 10 Countries with my St Kitts Passport | Citizenship by Investment in St Kitts and Nevis"
+- https://youtu.be/_x_zHqm1aWs
+  - 4 occurrences • sources: video_description • e.g. on "3 Reasons You Shouldn't Move to Dubai (Truth)"
+- https://youtu.be/kENQERIf4Ac
+  - 3 occurrences • sources: video_description • e.g. on "Moving to Dubai Is Now EASIER and CHEAPER: Lowest Price for Residence by Investment Ever in Dubai"
+- https://youtu.be/8Zl4pelIHXA
+  - 1 occurrence • sources: video_description • e.g. on "Best Banks in Dubai: Banking for Business & Crypto"
+- https://youtu.be/8YY8I2oKZo0
+  - 1 occurrence • sources: video_description • e.g. on "The Best Golden Visa No One Knows About"
+- https://youtu.be/lHMQ2SFfveQ
+  - 1 occurrence • sources: video_description • e.g. on "Forget Caribbean Citizenship! THESE Are Better Options"
+- https://youtu.be/7lyfL_X2FA0
+  - 4 occurrences • sources: video_description • e.g. on "New Citizenship Program Launched! Solomon Islands"
+- https://youtu.be/tZTQVl__Ec8
+  - 1 occurrence • sources: video_description • e.g. on "Rejected! Singapore Turns Down $88 Million CEO for Residency"
+- https://youtu.be/ubela86x8Co
+  - 1 occurrence • sources: video_description • e.g. on "Millionaires Leave Canada Before It's Too Late"
+- https://youtu.be/i6qluFQ3Usw
+  - 7 occurrences • sources: video_description • e.g. on "Qatar: The New Dubai? | Richest Country in the World"
+- https://youtu.be/TlhtuQByYiU
+  - 1 occurrence • sources: video_description • e.g. on "Europe Enforces Silent Crackdown on Investment Citizenship"
+- https://youtu.be/PjX-kaa6gKg
+  - 1 occurrence • sources: video_description • e.g. on "Get Out of Australia Now Before Tax Rules Change!"
+- https://youtu.be/Owk3z6BWJ9o
+  - 2 occurrences • sources: video_description • e.g. on "Banking in Dubai: The Truth"
+- https://youtu.be/k3LK0BYCH-0
+  - 2 occurrences • sources: video_description • e.g. on "The Secret Way To Get Citizenship No One Talks About"
+- https://youtu.be/UZr9jyW-GfQ
+  - 1 occurrence • sources: video_description • e.g. on "Ultimate Guide for Moving to Dubai"
+- https://youtu.be/gu0ijNep2-o
+  - 1 occurrence • sources: video_description • e.g. on "NEW and EASIER Dubai Residency Process Is Here!"
+- https://youtu.be/LL1JeF5ng1c
+  - 1 occurrence • sources: video_description • e.g. on "10 Countries Our Millionaire Clients Move To"
+- https://youtu.be/_SehbxDp4m4
+  - 1 occurrence • sources: video_description • e.g. on "Touring a $2.5 Million Dubai Villa: Luxury or Overpriced?"
+- https://youtu.be/D4A5trxG2CA
+  - 3 occurrences • sources: video_description • e.g. on "The Easiest Dubai Residence Visas (30 Days!)"
+- https://youtu.be/58fRVT-bjrA
+  - 2 occurrences • sources: video_description • e.g. on "Millionaires Leave the UK Before It's Too Late"
+- https://youtu.be/hINOosS5-pU
+  - 1 occurrence • sources: video_description • e.g. on "Careful with the New Crime Wave of Latin America"
+- https://youtu.be/bbzEVPnfrK0
+  - 3 occurrences • sources: video_description • e.g. on "Why I Chose St Kitts and Nevis Citizenship by Investment"
+- https://youtu.be/OJUbQcagza4
+  - 1 occurrence • sources: video_description • e.g. on "Do I Regret Renouncing my US Citizenship?"
+- https://youtu.be/_4I9-gxe7N8
+  - 1 occurrence • sources: video_description • e.g. on "Living in Monaco: Pay Zero Taxes for Life by Becoming a Monaco Resident | Monaco Taxes Explained"
+- https://youtu.be/dXHM-Jq2_PU
+  - 1 occurrence • sources: video_description • e.g. on "Worst Countries for Crypto (#3 will Surprise You)"
+- https://youtu.be/Dmw6-JWnUmY
+  - 5 occurrences • sources: video_description • e.g. on "Five Citizenships to AVOID At All Costs"
+- https://youtu.be/2_AUF0b1EwU
+  - 2 occurrences • sources: video_description • e.g. on "The Uncertain Future of Caribbean Citizenships"
+- https://www.youtube.com/watch?v=ZII9AXrG2Gs
+  - 1 occurrence • sources: video_description • e.g. on "Saudi Arabia - The Next Dubai?"
+- https://youtu.be/lBX05jRERTs
+  - 1 occurrence • sources: video_description • e.g. on "US Citizens Must Watch: the Future with Trump"
+- https://youtu.be/HWAMlfqm8WQ
+  - 1 occurrence • sources: video_description • e.g. on "Banking in Dubai: The Truth"
+- https://youtu.be/-9V8GFoqsOs
+  - 4 occurrences • sources: video_description • e.g. on "How to Buy & Rent Property in Dubai (Ultimate Guide)"
+- https://youtu.be/vAfrSB71ZUc
+  - 2 occurrences • sources: video_description • e.g. on "UAE Golden Visa is Exploding: Should You Get It?"
+- https://www.youtube.com/@Wealthyexpatmillionaire
+  - 1 occurrence • sources: pinned_comment • e.g. on "20 Countries That Sell Their Passports in 2025"
+- https://youtu.be/9YB7la9JqAA
+  - 2 occurrences • sources: video_description • e.g. on "Dubai Government Canceling Visas: Must Know This"
+- https://youtu.be/D4R3pVtDX4c
+  - 2 occurrences • sources: video_description • e.g. on "Millionaires Leave the UK Before It's Too Late..."
+- https://youtu.be/tqF_3-aEYFY
+  - 1 occurrence • sources: video_description • e.g. on "10 Best Countries to Move to from the USA"
+- https://youtu.be/OYQ_gWkuzs4
+  - 1 occurrence • sources: video_description • e.g. on "The Coming EU Travel Ban"
+- https://youtu.be/WqYmn-9cmO0
+  - 1 occurrence • sources: video_description • e.g. on "How to Move Abroad: 5 Steps to Leaving Your Country and Moving Abroad"
+- https://youtu.be/EKCBr7vq8-c
+  - 2 occurrences • sources: video_description • e.g. on "The Next Passport I'm Buying: Citizenship by Investment"
+- https://youtu.be/-mqiFZHgEQw
+  - 1 occurrence • sources: video_description • e.g. on "Dubai NOT Tax Free Anymore! Do This to Avoid Fines"
+- https://youtu.be/dTh2Apr8VXw
+  - 1 occurrence • sources: video_description • e.g. on "new UAE tax rules: what they don’t tell you"
+- https://youtu.be/CjBKWHcVEeo
+  - 1 occurrence • sources: video_description • e.g. on "Top 15 Countries to Buy Citizenship and How"
+- https://youtu.be/dJ9QG8r3BGY
+  - 1 occurrence • sources: video_description • e.g. on "Careful with the New Crime Wave of Latin America"
+- https://youtu.be/W5DgOtd_OgM
+  - 4 occurrences • sources: video_description • e.g. on "Is $1 MILLION for Malta Citizenship Worth It?"
+- https://youtu.be/IuPQPYJ6I1U
+  - 1 occurrence • sources: video_description • e.g. on "Hiring Her Will Save You 5 Hours Every Day"
+- https://youtu.be/bbzEVPnfrK0?si=eOZRLwHX8GyCodT6
+  - 1 occurrence • sources: video_description • e.g. on "Georgia Now Sells Citizenship – What You Need to Know"
+- https://youtu.be/bjCr1DjDcCY
+  - 1 occurrence • sources: video_description • e.g. on "You’ll Need ID to Use the Internet — Here’s How It Starts"
+- https://youtu.be/ZII9AXrG2Gs
+  - 2 occurrences • sources: video_description • e.g. on "5 Countries I CANT Travel To Anymore"
+- https://youtube.com/c/WealthyExpat
+  - 2 occurrences • sources: pinned_comment • e.g. on "How to Buy EU Citizenship: European Passports for Sale"
+- https://youtu.be/Jx4wt3L5iaE
+  - 1 occurrence • sources: video_description • e.g. on "Second Passport a MUST BUY for Rich People"
+- https://t.me/wealthyexpat
+  - 1 occurrence • sources: video_description • e.g. on "Dubai New Crypto Regulations Are Here (Important)"
+- https://youtu.be/C54gAwokc2I
+  - 1 occurrence • sources: video_description • e.g. on "Top Tier Passport in Just 2 Years! New Program Launched"
+- https://youtu.be/p4-GUS2d-dE
+  - 2 occurrences • sources: video_description • e.g. on "Banking in Dubai: The Truth"
+- https://youtu.be/ZoOJLNiW_Dk
+  - 2 occurrences • sources: video_description • e.g. on "How to Move to Dubai If You Have Money"
+- https://youtu.be/RoY7TJ6FPP0
+  - 1 occurrence • sources: video_description • e.g. on "3 citizenships to avoid like the plague - you've been warned"
+- https://youtu.be/66cXEgpeI9M?si=kPPy-GzQ2_btos1J
+  - 1 occurrence • sources: video_description • e.g. on "Why Rich People Never Use These Countries"
+- https://youtu.be/RBsimO3DIug
+  - 1 occurrence • sources: video_description • e.g. on "Traveling 10 Countries with my St Kitts Passport | Citizenship by Investment in St Kitts and Nevis"
+- https://youtu.be/TKujyDD3YkY
+  - 1 occurrence • sources: video_description • e.g. on "UAE Citizenship is Now Possible! How to Get It"
+- https://youtu.be/OkYkJ6AO1_s
+  - 1 occurrence • sources: video_description • e.g. on "Bali NEW 10 Year Golden Visa"
+- https://youtu.be/VBkk218KXm0
+  - 2 occurrences • sources: video_description • e.g. on "If You Have Crypto, You MUST Do This Before 2027"
+- https://youtu.be/7_SQxM7YzO0
+  - 1 occurrence • sources: video_description • e.g. on "12 Fastest Countries for Citizenship by investment"
+- https://youtu.be/W2SVENjEl_I
+  - 1 occurrence • sources: video_description • e.g. on "NEW 9% Tax… Is Dubai DEAD?"
+- https://youtu.be/0UDJcqEkcMA
+  - 1 occurrence • sources: video_description • e.g. on "El Salvador - The Next Singapore?"
+- https://youtu.be/3l1kNKkYApc
+  - 1 occurrence • sources: video_description • e.g. on "Get Residency in South America Before It's Too Late"
+- https://youtu.be/xkirTT_tCqU
+  - 1 occurrence • sources: video_description • e.g. on "Crypto Citizenships: Which Countries Accept Crypto?"
+- https://youtu.be/QMOb9-pfXeQ
+  - 1 occurrence • sources: video_description • e.g. on "7 Easiest Second Residence Permits in 2022"
+- https://youtu.be/eUJgq9HerDQ?si=s-MtsX00FG-f7cMe
+  - 1 occurrence • sources: video_description • e.g. on "New $105K Citizenship Program Officially Launched"
+- https://youtu.be/kX7aOjtv--k
+  - 1 occurrence • sources: video_description • e.g. on "UAE GOLDEN VISA: Easiest Way for Zero Tax"
+- https://youtu.be/CZ91UFl8N-I
+  - 1 occurrence • sources: video_description • e.g. on "Secret Tax Haven Nobody Is Talking About"
+- https://youtu.be/g2w9bLa9AzQ
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Real Estate: The Ultimate Guide | Buy Property in Dubai and Get a UAE Golden Visa"
+- https://youtu.be/q5Uf3EbN_8w
+  - 1 occurrence • sources: video_description • e.g. on "The Shocking State of Crypto in Dubai"
+- https://youtu.be/ExoS0oGPFb8
+  - 1 occurrence • sources: video_description • e.g. on "4 Best Countries for Crypto Millionaires"
+- https://youtu.be/o194B_o1NeA
+  - 2 occurrences • sources: video_description • e.g. on "Shocking reason why Canada's millionaires are leaving!"
+- https://youtu.be/XJwU8Hiq4HM
+  - 1 occurrence • sources: video_description • e.g. on "I Quit Drinking Alcohol, It Changed My Life"
+- https://youtu.be/SBZPk94Ym2g
+  - 2 occurrences • sources: video_description • e.g. on "The NEW Best Country to Invest? Why Thousands Are Flocking to Greece"
+- https://www.skool.com/wealthyexpat/citizenship-by-exception-unofficial-cbis
+  - 1 occurrence • sources: video_description • e.g. on "The Secret Way To Get Citizenship No One Talks About"
+- https://www.youtube.com/@adamnuccichannel
+  - 1 occurrence • sources: video_description • e.g. on "Canada is Dying! 5 Reasons to Leave Before It's Too Late"
+- https://youtu.be/wNMTu-e8t-c
+  - 1 occurrence • sources: video_description • e.g. on "Best Countries to Escape CBDCs: Cash Friendly"
+- https://youtu.be/g0kF-5odYz0
+  - 1 occurrence • sources: video_description • e.g. on "Canada Hates Its Citizens: Leave Before It's Too Late"
+- https://youtu.be/VEyFuV1uMQg
+  - 1 occurrence • sources: video_description • e.g. on "Best Passports for Crypto Millionaires in 2024"
+- https://youtu.be/26qp5zBatDA
+  - 1 occurrence • sources: video_description • e.g. on "Non Woke Country with ZERO Taxes!"
+- https://youtu.be/knDTm5G2Xy0
+  - 1 occurrence • sources: video_description • e.g. on "Will Caribbean Passports Lose EU Access?"
+
+## other (155 occurrences)
+
+- https://citizenshipandtax.com/2021/08/26/10-best-easy-residence-permits-in-the-world-move-abroad-and-travel-the-world/
+  - 1 occurrence • sources: video_description • e.g. on "10 Best & Easy Residence Permits in the World: Move Abroad and Travel the World"
+- https://citizenshipandtax.com/2021/07/28/portugal-golden-visa-ultimate-guide-portuguese-citizenship-and-residence-in-2021-and-2022/
+  - 1 occurrence • sources: video_description • e.g. on "PORTUGAL GOLDEN VISA ULTIMATE GUIDE: Portuguese Citizenship and Residence in 2021-2022"
+- https://www.propertyfinder.ae/en/buy/apartment-for-sale-dubai-greens-al-ghozlan-al-ghozlan-2-8235765.html
+  - 1 occurrence • sources: video_description • e.g. on "Moving to Dubai Is Now EASIER and CHEAPER: Lowest Price for Residence by Investment Ever in Dubai"
+- https://wealthyexpatcall.com/whatsapp
+  - 96 occurrences • sources: video_description • e.g. on "Canada Hates Its Citizens: Leave Before It's Too Late"
+- https://www.mmcdubai.ae/
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Healthcare: Best Doctors in the World?"
+- https://www.wealthyexpat.com/newsletter
+  - 9 occurrences • sources: video_description • e.g. on "The NEW Best Country to Invest? Why Thousands Are Flocking to Greece"
+- https://wealthyexpat.com/legal-disclaimer
+  - 16 occurrences • sources: video_description • e.g. on "The Next Country to Collapse? Millionaires Are Already Leaving"
+- https://wa.link/wealthyexpat
+  - 2 occurrences • sources: video_description • e.g. on "Worst Countries for Crypto (#3 will Surprise You)"
+- https://eservices.tax.gov.ae/sap/bc/ui5_ui5/sap/zmcf_fmca/index.html?saml2=disabled#/Logon
+  - 1 occurrence • sources: video_description • e.g. on "Dubai NOT Tax Free Anymore! Do This to Avoid Fines"
+- https://www.propertyfinder.ae/en/buy/apartment-for-sale-dubai-dubai-marina-manchester-tower-8226075.html
+  - 1 occurrence • sources: video_description • e.g. on "Moving to Dubai Is Now EASIER and CHEAPER: Lowest Price for Residence by Investment Ever in Dubai"
+- https://www.propertyfinder.ae/en/buy/apartment-for-sale-dubai-greens-al-samar-al-samar-1-8270382.html
+  - 1 occurrence • sources: video_description • e.g. on "Moving to Dubai Is Now EASIER and CHEAPER: Lowest Price for Residence by Investment Ever in Dubai"
+- https://docs.google.com/document/d/1a1eFnO6navLU43MfdjcEQNtSPNukN7ABiG8Nc8CBN5o/edit?usp=sharing
+  - 1 occurrence • sources: video_description • e.g. on "Get Out of Australia Now Before Tax Rules Change!"
+- https://www.propertyfinder.ae/en/buy/apartment-for-sale-dubai-downtown-dubai-burj-views-burj-views-podium-8064638.html
+  - 1 occurrence • sources: video_description • e.g. on "Moving to Dubai Is Now EASIER and CHEAPER: Lowest Price for Residence by Investment Ever in Dubai"
+- https://www.bayut.com/
+  - 1 occurrence • sources: video_description • e.g. on "How to Buy & Rent Property in Dubai (Ultimate Guide)"
+- https://www.imidaily.com/caribbean/el-salvador-citizenship-by-investment-program-could-open-by-spring-bukeles-tweet-indicates/
+  - 1 occurrence • sources: video_description • e.g. on "El Salvador Bitcoin Citizenship by Investment Coming"
+- https://www.imidaily.com/europe/montenegro-should-reopen-cip-argues-eu-accession-negotiations-coordinator/
+  - 1 occurrence • sources: video_description • e.g. on "Montenegro Citizenship by Investment is Back?"
+- https://www.imidaily.com/europe/georgian-official-introduces-e250000-special-contribution-citizenship-program-in-beijing/
+  - 1 occurrence • sources: video_description • e.g. on "Georgia Now Sells Citizenship – What You Need to Know"
+- https://www.wealthyexpatclient.com/ic-main
+  - 1 occurrence • sources: video_description • e.g. on "I Bought a Caribbean Passport for $250K… And Regret It"
+- https://drimtiaz.com/
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Healthcare: Best Doctors in the World?"
+- https://www.imidaily.com/europe/confirmed-norway-quietly-denying-entry-to-cbi-passport-holders/
+  - 1 occurrence • sources: video_description • e.g. on "Europe Enforces Silent Crackdown on Investment Citizenship"
+- https://www.propertyfinder.ae/en/buy/apartment-for-sale-dubai-downtown-dubai-claren-towers-claren-tower-1-8229319.html
+  - 1 occurrence • sources: video_description • e.g. on "Moving to Dubai Is Now EASIER and CHEAPER: Lowest Price for Residence by Investment Ever in Dubai"
+- https://www.wealthyexpatclient.com/ic-main?video=3O0Ypr3lMoc
+  - 1 occurrence • sources: video_description • e.g. on "UAE 0% Tax Residency is Now on EASY Mode (Anyone Can Get It)"
+- https://www.propertyfinder.ae/en/buy/apartment-for-sale-dubai-dubai-marina-studio-one-8070810.html
+  - 1 occurrence • sources: video_description • e.g. on "Moving to Dubai Is Now EASIER and CHEAPER: Lowest Price for Residence by Investment Ever in Dubai"
+- https://propertyfinder.ae/
+  - 1 occurrence • sources: video_description • e.g. on "How to Buy & Rent Property in Dubai (Ultimate Guide)"
+- https://www.thenationalnews.com/business/money/2023/01/26/uae-salary-guide-2023-how-much-should-you-be-earning/
+  - 1 occurrence • sources: video_description • e.g. on "NEW 9% Tax… Is Dubai DEAD?"
+- https://wealthyexpat.com/2021/11/09/best-places-dubai/
+  - 1 occurrence • sources: video_description • e.g. on "Moving to Dubai? Best Places to Live in Dubai | Best Areas for Living in Dubai"
+- https://wealthyexpat.com/programs/latvia-residency
+  - 1 occurrence • sources: video_description • e.g. on "The Easiest (and Cheapest) Golden Visa in Europe Right Now"
+- https://www.propertyfinder.ae/en/buy/apartment-for-sale-dubai-dubai-marina-time-place-tower-8286440.html
+  - 1 occurrence • sources: video_description • e.g. on "Moving to Dubai Is Now EASIER and CHEAPER: Lowest Price for Residence by Investment Ever in Dubai"
+- https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-crypto-stock-and-bond-gains/
+  - 1 occurrence • sources: video_description • e.g. on "The Next Country to Collapse? Millionaires Are Already Leaving"
+- https://wealthyexpat.com/private-consulting
+  - 1 occurrence • sources: video_description • e.g. on "UK's Richest Are Moving Abroad - Here's Why and Where"
+- https://www.medcare.ae/en/branches/view/medcare-hospital.html
+  - 1 occurrence • sources: video_description • e.g. on "Dubai Healthcare: Best Doctors in the World?"
+- https://www.worldwideaccountancy.com.au/
+  - 1 occurrence • sources: video_description • e.g. on "Get Out of Australia Now Before Tax Rules Change!"
+- https://www.wealthyexpatclient.com/citizenship
+  - 1 occurrence • sources: video_description • e.g. on "ARGENTINA Proposes Citizenship by Investment for $500,000 - Here's the Truth"
+- https://www.wealthyexpatclient.com/ic-main?video=ShmGaQl8Ka8
+  - 1 occurrence • sources: video_description • e.g. on "Georgia Now Sells Citizenship – What You Need to Know"
+- https://x.com/ASvanevik/status/1845657276599713913
+  - 1 occurrence • sources: video_description • e.g. on "Rejected! Singapore Turns Down $88 Million CEO for Residency"
+- https://wealthyexpat.com/2021/10/23/passports-for-sale-citizenship-by-investment/
+  - 1 occurrence • sources: video_description • e.g. on "TOP 10 PASSPORTS FOR SALE: Best Citizenship by Investment Countries in the World"

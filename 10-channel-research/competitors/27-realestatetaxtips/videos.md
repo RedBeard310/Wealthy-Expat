@@ -1,0 +1,81 @@
+# Videos: RealEstateTaxTips
+
+75 videos, sorted by view count descending.
+
+| # | Title | Published | Views | Likes | Comments | Duration | Content type | Funnel | Trending? | All-time? | URL |
+|---|---|---|---:|---:|---:|---:|---|---|:---:|:---:|---|
+| 1 | Tax Implications of Leaving Canada Permanently | 2024-02-08 | 236,216 | 4,252 | 876 | 27m15s | Hardcore Educational / How-To Content | super_close_to_the_money |  | ✓ | https://youtu.be/2VilN6GOp64 |
+| 2 | 7 Strategies to Take Money Out of Your RRSP and RRIF Without Giving It All to CRA | 2026-03-25 | 162,733 | 3,692 | 360 | 18m28s | Framework and Methodology Breakdowns | right_on_the_money | ✓ | ✓ | https://youtu.be/p8ghcnecsoM |
+| 3 | How Rental Income Is Taxed In Canada | 2023-03-06 | 155,992 | 3,389 | 278 | 25m20s | Hardcore Educational / How-To Content | super_close_to_the_money |  | ✓ | https://youtu.be/vZFJFOf5o00 |
+| 4 | Estate Freeze Explained (Canada): How to Pass Real Estate to Your Kids WITHOUT a Huge Tax Bill | 2026-02-25 | 153,543 | 3,087 | 299 | 8m09s | Framework and Methodology Breakdowns | right_on_the_money | ✓ | ✓ | https://youtu.be/6Iswm42u5iA |
+| 5 | Family Trust vs Will in Canada: How to Protect Your Estate, Reduce Tax & Avoid Probate | 2026-02-20 | 124,057 | 3,200 | 158 | 23m31s | Framework and Methodology Breakdowns | right_on_the_money | ✓ | ✓ | https://youtu.be/D_r3GjsHBh4 |
+| 6 | Adding Your Child to Your House Title to Avoid Probate? Watch This First. | 2026-03-05 | 122,840 | 3,303 | 480 | 22m08s | Objection Handling and Myth-Busting | super_close_to_the_money | ✓ | ✓ | https://youtu.be/yuo2Ziavy6A |
+| 7 | How to Turn Your Mortgage into a Tax Deductible Machine \| 2023 High Interest Rate Edition | 2023-07-13 | 101,038 | 1,637 | 217 | 18m11s | Framework and Methodology Breakdowns | right_on_the_money |  | ✓ | https://youtu.be/RZreAaXTwTw |
+| 8 | Everything Canadians Need To Know About 2024 Tax Changes | 2023-12-14 | 78,545 | 433 | 62 | 27m41s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/u4vhY6ZRFHA |
+| 9 | What Happens If You Die Without a Will in Canada? | 2026-03-12 | 68,117 | 1,711 | 264 | 18m54s | Deep-Dive Problem Diagnosis | right_on_the_money | ✓ |  | https://youtu.be/uA_7jSCzLOs |
+| 10 | Canadian Inheritance & Probate Explained: Save Your Heirs Thousands! | 2025-10-16 | 64,932 | 1,975 | 159 | 17m33s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/MZ0FFwSG1JU |
+| 11 | How To Claim Home Office Expenses (2024 Update) | 2024-03-07 | 45,915 | 926 | 158 | 18m47s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/J3E0gQtKYIw |
+| 12 | Save $28,000 When buying a Tesla In Canada \| Real Estate Tax Tips | 2021-04-20 | 45,556 | 939 | 307 | 4m33s | Results Reveals and Before/After Showcases | right_on_the_money |  |  | https://youtu.be/BaZU0q-r9os |
+| 13 | Salary Vs. Dividend: How To Pay Yourself From A Corporation In Canada | 2022-07-21 | 40,409 | 1,653 | 147 | 22m56s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/MTmlDdphx4c |
+| 14 | How to Take Money Out of Your Corporation TAX-FREE in Canada \| Capital Dividend Account Explained | 2026-04-21 | 36,483 | 1,131 | 158 | 20m18s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/EnRyln3MjqY |
+| 15 | Top 10 tax deductions you shouldn’t miss as a real estate investor | 2021-11-18 | 35,212 | 1,109 | 212 | 26m15s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/7tcV_zVj7CE |
+| 16 | How to Prevent a CRA Audit | 2024-05-16 | 27,253 | 309 | 38 | 28m52s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/BqZs1QQiEp8 |
+| 17 | The Little Known Reason WHY Canadian Property Prices Are Going Up | 2024-05-24 | 26,192 | 371 | 83 | 26m12s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/2zfkoLRa0fo |
+| 18 | Unfair 2024 Federal Budget Coming | 2024-04-17 | 25,835 | 1,056 | 441 | 15m14s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/06lpBnyeiPQ |
+| 19 | How to Purchase Primary Residence in a Corporation | 2022-06-30 | 25,055 | 852 | 75 | 17m06s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/ZuEbA0JgBJo |
+| 20 | How To Deduct Automobile Expenses | 2022-12-02 | 24,828 | 663 | 117 | 24m52s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/8PsWQ1NeHgQ |
+| 21 | 5 Ways To Lower Capital Gains Tax On The Sale Of Your Rental Property | 2021-12-01 | 24,251 | 600 | 54 | 13m29s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/T42Q6KBoBTI |
+| 22 | New CRA Trust Reporting Rules | 2024-09-05 | 21,902 | 228 | 46 | 15m20s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/_HOybIl6SDk |
+| 23 | How To Reduce Taxes and Keep More Cash In Your Pocket using Capital Cost Allowance(CCA) | 2021-06-02 | 21,794 | 701 | 136 | 7m41s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/Poq1_0F1Cpo |
+| 24 | Tax implications of investing in Cryptocurrency | 2021-10-27 | 21,157 | 793 | 217 | 20m46s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/6FW6Ck19rtg |
+| 25 | NEW CANADA PENSION PLAN [CPP] CHANGES 2024 EXPLAINED | 2023-11-24 | 20,407 | 264 | 28 | 16m46s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/Jd6GnjaX_pY |
+| 26 | Airbnb Taxes Every Host Should Know | 2022-02-10 | 18,995 | 451 | 95 | 14m03s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/EkwSskrjQiE |
+| 27 | How to Avoid Capital Gains Tax When Moving To A Rental Property | 2022-01-26 | 18,952 | 418 | 89 | 9m49s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/ZPx9zZc34yQ |
+| 28 | What the 2025 Federal Budget Really Means for Real Estate Investors and Small Business Owners | 2025-11-06 | 18,634 | 453 | 41 | 16m11s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/nPPNIi9jCRc |
+| 29 | Tax Implications Of Refinancing Your Rental Property | 2021-12-29 | 17,578 | 589 | 85 | 14m46s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/eeY3E5Tf3Mg |
+| 30 | Pros, Cons & Tax Implications of Having a Family Trust | 2023-08-03 | 16,646 | 462 | 22 | 21m24s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/91WvCbmAF_w |
+| 31 | Underused Housing Tax Act (UHT) in Canada: Who Needs to File and Pay? | 2023-02-16 | 15,602 | 448 | 141 | 18m45s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/xBoH6v8BrCM |
+| 32 | How to Pay Off Your Primary Residence Mortgage 14 Years Earlier | 2025-03-20 | 15,598 | 396 | 76 | 27m32s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/OHfLTKkaPZ0 |
+| 33 | 4 Tax Mistakes Retiring Canadians Make That Cost Tens of Thousands | 2026-04-09 | 15,134 | 282 | 48 | 12m05s | Client Case Studies and Narrative Transformations | right_on_the_money |  |  | https://youtu.be/zbc9s7lBm1Q |
+| 34 | Refinancing vs. Selling a Rental Property | 2024-06-27 | 14,317 | 395 | 31 | 21m04s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/V4J0Zp5jAOY |
+| 35 | Rental Income: What You Don't Need to Report (Legally) | 2025-08-22 | 14,125 | 313 | 16 | 7m41s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/rhjbgmoojHI |
+| 36 | 10 Questions from Buying a Tesla & Saving $28K in Taxes | 2022-05-12 | 12,997 | 300 | 124 | 26m03s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/89bHePnHJ48 |
+| 37 | Can You Not Pay Any Taxes in Canada? | 2021-11-12 | 12,402 | 174 | 35 | 1m01s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/B3R6UXraJ50 |
+| 38 | Canada’s New Anti-Flipping Rule | 2022-12-15 | 12,229 | 358 | 81 | 27m29s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/DeIlscI2tgs |
+| 39 | Capital Cost Allowance (CCA) for Rental Properties 🇨🇦 \| How It Works, Benefits & Hidden Traps | 2026-02-05 | 11,628 | 274 | 33 | 18m51s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/0ubTe3ziyKI |
+| 40 | Cost of Transferring Your Rental Properties To Corporation | 2021-06-10 | 11,423 | 411 | 56 | 6m53s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/poa3oAky9fQ |
+| 41 | How to Extract Retained Earnings from Your Corporation: Every Strategy Explained | 2026-03-18 | 11,132 | 369 | 40 | 18m02s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/g4rj7Lo-HFE |
+| 42 | Leaving Canada for U.S. Real Estate | 2024-05-03 | 10,128 | 360 | 96 | 15m56s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/1shCjBm-kRs |
+| 43 | Navigating the New Capital Gains Inclusion Rate: What Real Estate Investors Need to Know | 2024-06-13 | 9,876 | 302 | 51 | 24m07s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/Z31FMHaJVHM |
+| 44 | How to Deduct Moving Expenses the Right Way | 2022-02-16 | 9,652 | 129 | 72 | 10m47s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/1Ij5wfcMWBY |
+| 45 | CRA Audit: Real Estate Compliance Tips & Tricks! | 2022-03-17 | 9,561 | 219 | 11 | 24m44s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/joaYcxYdbHc |
+| 46 | How To Claim Home Office Expenses | 2023-02-09 | 9,467 | 258 | 41 | 15m46s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/ddOMUnBe-70 |
+| 47 | 5 Simple Strategies to Split Income to Lower Family Tax Bill | 2021-10-14 | 9,211 | 265 | 39 | 8m33s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/JNXSUa98cr4 |
+| 48 | 7 Strategies For Mastering Cash Flow in Real Estate Investing | 2023-06-02 | 9,044 | 234 | 21 | 44m58s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/vACCnYWLoFw |
+| 49 | Pass Real Estate to Your Kids in Canada Without a Tax Disaster (5 Ways) | 2026-05-05 | 8,970 | 400 | 28 | 25m48s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/IWHfwCAnYa0 |
+| 50 | How to Write Off Repair & Maintenance\| Capital Expense VS Current Expense \| Real Estate Tax Tips | 2021-05-04 | 8,565 | 455 | 83 | 11m26s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/NaNJaoy4xK8 |
+| 51 | Probate Fees or Income Taxes — Which Hurts More | 2026-04-10 | 4,141 | 85 | 1 | 1m41s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/kX1vHphsPyI |
+| 52 | Ontario Budget 2026: How to Get Up to $130,000 HST Rebate + Small Business Tax Cut Explained | 2026-04-03 | 4,064 | 112 | 21 | 13m08s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/mtWB1qwEXak |
+| 53 | Medical Expenses on Taxes in Canada: Not a Refund—Here’s How the Credit Works (2025/2026) | 2026-02-23 | 3,696 | 82 | 1 | 1m48s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/fcZA_txQtaY |
+| 54 | Freeze Your Real Estate for Kids' Future Growth | 2026-04-15 | 3,623 | 63 | 1 | 1m29s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/Qy8kiP7WnU4 |
+| 55 | The secret to paying MORE tax on your RRSP. Don't do this! | 2026-03-31 | 3,593 | 103 | 4 | 1m44s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/O8IoTFCgMMg |
+| 56 | What Really Happens If You Die Without a Will | 2026-04-22 | 3,590 | 89 | 3 | 1m39s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/p_sGFvfcn6k |
+| 57 | Breaking: Supreme Court Blocks Trump’s Global Tariffs – $130 Billion Refund Battle Begins | 2026-02-20 | 3,092 | 40 | 6 | 1m22s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/3MriQiGnqKc |
+| 58 | Is this child labor or smart tax planning? | 2026-04-06 | 2,929 | 54 | 3 | 1m41s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/2RShBztUwCs |
+| 59 | Miss This Date, Lose $130,000 | 2026-04-13 | 2,576 | 42 | 7 | 1m46s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/5L15miBA4R8 |
+| 60 | How Multiple Wills Can Legally Reduce Probate Fees | 2026-04-17 | 2,437 | 48 | 3 | 1m34s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/atfTAD_hS40 |
+| 61 | Mark Carney Says We’re in a “Rupture” — What Real Estate Can Learn From It | 2026-02-16 | 2,312 | 39 | 2 | 1m42s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/9oDyK1xBejg |
+| 62 | Smith Maneuver vs Regular Mortgage: Why It Matters (Canada) | 2026-02-18 | 2,192 | 36 | 3 | 1m23s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/J2wpoDbAgFE |
+| 63 | HELOC, High Rates & Cash Flow Problems? CPA Breaks Down Smart Debt Strategies | 2026-02-13 | 1,836 | 41 | 7 | 18m55s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/WdmPh5HX-Cw |
+| 64 | What Happens to Your Property When You Die | 2026-04-02 | 1,804 | 68 | 4 | 1m12s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/NsfEQpc8pho |
+| 65 | Why a 6% Return Might Be the Smartest Investment You’ll Ever Make | 2026-03-09 | 1,796 | 41 | 7 | 1m13s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/Ul9U3tM4fL8 |
+| 66 | A Corporation Won’t Fix Your Cash Flow | 2026-03-13 | 1,628 | 15 | 1 | 1m30s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/sTVo1jK9zdk |
+| 67 | Claiming Depreciation CCA Against Rental Income | 2026-03-05 | 1,535 | 30 | 2 | 1m17s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/jWp9jh4Vy44 |
+| 68 | Income Splitting with Your Family in Canada (The Cleanest Way CRA Allows) | 2026-04-24 | 1,488 | 20 | 0 | 1m21s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/FIHyxyqiinw |
+| 69 | When does a family trust actually make sense | 2026-03-19 | 1,485 | 28 | 2 | 1m17s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/YKO5-ql4Ne8 |
+| 70 | Ontario Just Quietly Saved Businesses $5,000 a Year | 2026-04-20 | 1,271 | 25 | 0 | 1m14s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/Vk5GdmFKcHA |
+| 71 | The CRA rule that saves non resident investors thousands! | 2026-02-06 | 1,171 | 12 | 0 | 1m06s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/LKorvzsO5Ho |
+| 72 | Protect Your Spouse Without Disinheriting Your Children \| Estate Planning Explained | 2026-03-23 | 1,163 | 22 | 1 | 1m45s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/d0b0eFdKu6o |
+| 73 | The 21‑Year Rule Nobody Warns You About! | 2026-03-11 | 1,068 | 14 | 2 | 1m07s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/cdKV8dS1Y6U |
+| 74 | Why High Earners Still Live Paycheque to Paycheque | 2026-03-16 | 744 | 11 | 0 | 1m34s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/STnsrOl-_Lw |
+| 75 | How My Definition of Wealth Changed Over Time | 2026-02-11 | 506 | 3 | 0 | 0m08s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/my2rgtVJvtU |

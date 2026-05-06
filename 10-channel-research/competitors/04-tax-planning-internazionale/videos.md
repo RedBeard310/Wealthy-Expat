@@ -1,0 +1,79 @@
+# Videos: Tax Planning Internazionale
+
+73 videos, sorted by view count descending.
+
+| # | Title | Published | Views | Likes | Comments | Duration | Content type | Funnel | Trending? | All-time? | URL |
+|---|---|---|---:|---:|---:|---:|---|---|:---:|:---:|---|
+| 1 | Quando conviene trasferirsi all'estero? 🌍 #business #digitalnomad #fisco #tasse | 2023-04-02 | 295,484 | 4,319 | 15 | 0m59s | Deep-Dive Problem Diagnosis | right_on_the_money |  | ✓ | https://youtu.be/6W-ZBbGoYgM |
+| 2 | Le 5 Strutture da NoN implementare nella Pianificazione Fiscale (Parte II) #shorts | 2021-08-06 | 273,278 | 1,386 | 0 | 0m51s | Objection Handling and Myth-Busting | super_close_to_the_money |  | ✓ | https://youtu.be/uPwELjSXYg0 |
+| 3 | 5 Paesi dove aprire un conto corrente personale schermato... e sì è perfettamentelegale | 2024-04-29 | 99,819 | 0 | 8 | 0m59s | Best-in-Class Curations | super_close_to_the_money |  | ✓ | https://youtu.be/BBaHgxuer4Q |
+| 4 | LLC USA: 3 errori che ti fanno pagare tasse (anche se NON sei residente) | 2023-08-22 | 72,467 | 775 | 21 | 6m29s | Deep-Dive Problem Diagnosis | right_on_the_money |  | ✓ | https://youtu.be/hXE2FIIQ2N4 |
+| 5 | Svizzera fuori dalla Blacklist (dal 2024): cosa cambia per chi si trasferisce | 2024-10-10 | 54,751 | 2,242 | 23 | 10m32s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  | ✓ | https://youtu.be/XNozJetGlVQ |
+| 6 | Trasferirti all’estero non ti farà pagare meno tasse (se fai questo errore) | 2023-10-24 | 40,753 | 259 | 10 | 5m24s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/XIgZ0pyBUZI |
+| 7 | Secondo Passaporto: VANTAGGI e AGEVOLAZIONI per Imprenditori e Professionisti | 2023-05-05 | 39,620 | 144 | 13 | 6m17s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/whzWl9mW_m0 |
+| 8 | Perché in Uruguay pagare più tasse può essere la scelta migliore | 2025-09-13 | 29,657 | 463 | 44 | 10m25s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/sCVRU8WXSPA |
+| 9 | I Migliori 10 Paesi al Mondo in cui Vivere | 2021-10-26 | 29,264 | 609 | 85 | 12m02s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/HpHdQoN12pg |
+| 10 | Monaco o Svizzera? Dove conviene davvero trasferirsi | 2025-04-05 | 21,137 | 904 | 19 | 16m25s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/anCk7VuHecw |
+| 11 | Perché vivo in #portogallo? Scopri tutti i vantaggi fiscali #taxplanning #business #fisco #freelance | 2023-05-27 | 18,809 | 68 | 3 | 0m55s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/59yi8dEkHzc |
+| 12 | Albania… tassazione allo 0%? (Testimonianza Andrea Sapio) | 2021-12-07 | 16,665 | 290 | 58 | 18m28s | Client Case Studies and Narrative Transformations | right_on_the_money |  |  | https://youtu.be/ePKWF8n4YfE |
+| 13 | 5 FALSITÀ SULLA RESIDENZA FISCALE CHE NESSUNO TI DICE | 2023-10-05 | 13,871 | 504 | 27 | 7m35s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/aZa95-iHmD8 |
+| 14 | I Segreti della Fiscalità Svizzera che Nessuno Ti Racconta | 2024-10-17 | 13,176 | 618 | 30 | 17m04s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/l1yXJ_H6Gjc |
+| 15 | Paraguay e Residenza Fiscale: l’esperienza reale di due imprenditori italiani ad Asunción | 2025-10-03 | 11,355 | 95 | 26 | 24m43s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/K-IrkeMaiS8 |
+| 16 | Non Aprire una Società in Bulgaria o a Dubai | 2019-05-20 | 10,719 | 155 | 16 | 7m12s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/XW-KaqwW7rU |
+| 17 | Crypto... Come non pagare le Tasse sulla Plusvalenza (2021) | 2021-04-20 | 10,235 | 376 | 90 | 3m30s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/f3Zg4RXhPJ4 |
+| 18 | Costituire una holding italiana per fare business | 2019-10-25 | 10,204 | 194 | 23 | 8m35s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/qx6SnNbd94o |
+| 19 | Asia o Sud America? La guida per nomadi digitali nel 2025 | 2025-09-25 | 9,260 | 69 | 11 | 11m22s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/USfWCiC58dU |
+| 20 | Ci sono nuovi paradisi fiscali nel mondo? | 2020-04-08 | 8,275 | 216 | 52 | 21m00s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/S4ed_RLrtYg |
+| 21 | TASSE PORTOGALLO: Ha ANCORA senso trasferirsi in Portogallo nel 2023? 🌍 | 2023-05-30 | 7,948 | 286 | 39 | 4m32s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/i8IrOV6WG2o |
+| 22 | NOMADE DIGITALE: Ha Senso Vivere in Romania? 🌍 | 2023-06-23 | 7,475 | 274 | 11 | 7m41s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/GOXQNgF37fU |
+| 23 | Come incassare grandi patrimoni in criptovalute in modo legale | 2025-07-08 | 7,451 | 374 | 28 | 9m33s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/4nZizEuh3iU |
+| 24 | Trading Online: Tassazione del Capital Gain | 2020-04-28 | 7,134 | 256 | 41 | 18m49s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/dIGAXxI4CHA |
+| 25 | Ci sono Paradisi Fiscali in Europa? | 2019-06-04 | 6,520 | 113 | 32 | 7m52s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/FqHvKYxrlA0 |
+| 26 | Saint Thomas: il Paradiso Fiscale Americano che (quasi) nessuno conosce | 2026-04-04 | 6,429 | 59 | 0 | 8m35s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue | ✓ |  | https://youtu.be/Cz7NucsBhxQ |
+| 27 | Canarie… sono un Paradiso Fiscale per i business digitali? | 2021-11-16 | 6,091 | 264 | 16 | 11m17s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/VWCBr1BqMz0 |
+| 28 | Aprire una società a Malta: conviene ancora? | 2019-10-16 | 5,854 | 82 | 11 | 9m17s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/WI-0Mh_-puA |
+| 29 | Il Caso DMG: La Lezione da 2 Miliardi che ha Cambiato la Colombia | 2025-09-05 | 5,465 | 59 | 5 | 7m52s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/P_vb1QtmvIw |
+| 30 | Perché i ricchi pagano meno tasse di te? | 2025-05-27 | 5,447 | 227 | 7 | 12m54s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/O2NfGcfkGBM |
+| 31 | La E-Residency estone è una truffa | 2020-02-04 | 5,331 | 61 | 17 | 7m53s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/1GDtULBp5UM |
+| 32 | Aprire Società a Dubai nel 2021 (Quello che Non ti Dicono) | 2021-08-03 | 5,293 | 369 | 16 | 13m09s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/2Nzeofw4oTU |
+| 33 | Perdere la residenza fiscale italiana è sempre più difficile 😩 | 2024-02-21 | 5,236 | 61 | 6 | 1m01s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/GO5YO-aMlPw |
+| 34 | Perchè Trasferirsi in Spagna nel 2024. Tra Primati e Problemi | 2024-04-25 | 4,963 | 135 | 11 | 6m10s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/DwmcslmTdKw |
+| 35 | Svizzera...è davvero un Paradiso Fiscale? | 2021-03-09 | 4,911 | 129 | 20 | 21m15s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/iI7vcDN3nwc |
+| 36 | Dove Mi RiTrasferirei  #tax #relocation #relocationspecialist #cyprus #malta | 2024-03-07 | 4,840 | 0 | 11 | 1m00s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/euXArxO-yGk |
+| 37 | Come ho ottenuto la VISA Permanente a PANAMA | 2025-06-17 | 4,807 | 267 | 32 | 19m39s | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/h6DStcVgHmU |
+| 38 | Paradiso Fiscale USA: i RISCHI di Aprire una LLC per il Tuo Business Digitale | 2023-04-11 | 4,687 | 118 | 6 | 5m35s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/AClSVbYZ2UI |
+| 39 | Le Migliori Banche Offshore Per Il Tuo Denaro Nel 2025! | 2025-05-10 | 4,655 | 181 | 13 | 12m05s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/h_NIBrNpdPE |
+| 40 | Fiscalità Internazionale per Nomadi Digitali: La Verità! | 2024-12-13 | 4,652 | 164 | 14 | 15m08s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/__bxB5oxQ4w |
+| 41 | Il Portogallo è un Paradiso Fiscale? | 2019-10-15 | 4,437 | 98 | 11 | 9m59s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/hXGvD1BHxcQ |
+| 42 | Tassazione Capital Gain in Portogallo: Il Portogallo è DAVVERO un Paradiso Fiscale? | 2023-06-14 | 4,411 | 80 | 13 | 6m19s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/2i0uuQKEwnc |
+| 43 | NOMADE DIGITALE: Perché Vivo in Portogallo 🌍 TUTTI i Vantaggi (NON SOLO FISCALI) del Portogallo! | 2023-05-26 | 4,252 | 172 | 34 | 6m34s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/4O5YZnehNjM |
+| 44 | Tasse su Staking e Mining di Crypto (Come funziona?) | 2021-11-09 | 4,197 | 249 | 43 | 5m38s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/BBDxX5lhTAw |
+| 45 | Vivere alle Canarie Come Imprenditore - Tutti i Vantaggi Fiscali! | 2024-05-14 | 4,041 | 156 | 14 | 9m24s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/jABR0_m78GM |
+| 46 | La Serbia È Il Nuovo Eldorado Fiscale: Ecco Perché! | 2024-11-07 | 4,035 | 146 | 12 | 9m44s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/rnG4nijz7I0 |
+| 47 | Come Incassare Milioni in Criptovalute Senza Complicazioni (Le Migliori BANCHE) | 2025-06-11 | 4,027 | 224 | 67 | 10m49s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/XJorXHG_yhM |
+| 48 | Acquistare Immobili in Italia con Società Estera: si può fare o no? (TUTTO quello che DEVI sapere) | 2022-05-16 | 3,927 | 192 | 7 | 6m13s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/ipGoQmisDVY |
+| 49 | CROLLO dell'ultimo Paradiso Fiscale: DUBAI! (Addio allo 0% di Tasse?) | 2022-02-12 | 3,917 | 251 | 17 | 11m28s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/2Loky9sQVHo |
+| 50 | Montenegro… Paradiso Fiscale? | 2021-12-14 | 3,868 | 182 | 7 | 17m54s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/qebTZP22JEc |
+| 51 | Il conto solo italiano è un rischio documentato. Non un'opinione. | 2026-04-28 | 3,076 | 43 | 17 | 1m35s | Deep-Dive Problem Diagnosis | right_on_the_money | ✓ |  | https://youtu.be/g0mhdNb-jrA |
+| 52 | Panama vs Paraguay vs Dubai: quale ha senso davvero per un imprenditore italiano? | 2026-04-16 | 2,854 | 50 | 4 | 2m43s | Versus and Comparison Videos | super_close_to_the_money | ✓ |  | https://youtu.be/hSjo3VHSj-c |
+| 53 | Ho appena preso un secondo passaporto e ti svelo perché dovresti farlo anche tu | 2026-03-07 | 2,515 | 80 | 6 | 25m28s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/qu_ca18Wgyw |
+| 54 | Il dato che nessun TG italiano titola così. | 2026-04-21 | 1,567 | 34 | 1 | 1m15s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/UxTrHBT4lxo |
+| 55 | Aprire un conto corrente offshore: quello che nessuno ti dice prima di farlo. | 2026-04-13 | 1,477 | 19 | 0 | 1m37s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/WPqlSfXwKOo |
+| 56 | Conto offshore: come aprirlo senza sbagliare giurisdizione | 2026-04-25 | 1,220 | 21 | 19 | 1m08s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/1_SuKaoN7wM |
+| 57 | Dubai è ancora la scelta giusta? #dubai #cosafare #oggi | 2026-03-18 | 1,200 | 14 | 0 | 1m04s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/TgeICPVnpGY |
+| 58 | Ma dove vanno i miliardari … | 2026-04-29 | 1,123 | 33 | 1 | 1m51s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/gVvQzRzv_Ns |
+| 59 | Trasferirsi a Miami: come vivere il sogno fiscale americano e quanto si risparmia davvero? | 2026-02-21 | 1,106 | 49 | 4 | 13m55s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/8dV31T1ga04 |
+| 60 | Emirates ID + Free Zone + conto UAE = struttura sicura? | 2026-04-17 | 1,009 | 23 | 0 | 1m59s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/Sn5R60AEb9s |
+| 61 | Aprire una LLC in Florida: errori fiscali, rischi bancari e vantaggi reali | 2026-03-28 | 950 | 37 | 0 | 17m26s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/buJHmJH7Wp8 |
+| 62 | Questo non è un problema di mercati. È un problema di giurisdizione. | 2026-04-20 | 834 | 29 | 5 | 1m37s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/01nirJZNlDk |
+| 63 | Cos'è una fiduciaria e cosa fa davvero. Quello che il 90% degliimprenditori non sa. | 2026-04-03 | 832 | 8 | 0 | 0m45s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/DmxdafdZVTo |
+| 64 | Quanto vale davvero la tua libertà? | 2026-04-19 | 671 | 19 | 0 | 1m32s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/wXHD-cJwbOA |
+| 65 | Relocation Estero 2026: Dove Trasferirsi per Pagare Meno Tasse e Proteggere il Business | 2026-03-10 | 636 | 24 | 15 | 39m00s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/vzEwfkBNRBo |
+| 66 | Ho comprato casa in Costa Azzurra… poi ho scoperto queste tasse | 2026-04-27 | 538 | 35 | 7 | 13m06s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/Ms2sVXxMsr8 |
+| 67 | Dal 21 al 27 ottobre 2026 sarò a Panama con un gruppo di imprenditori, professionisti e investitori. | 2026-02-27 | 508 | 4 | 2 | 0m33s | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/12J-9iRin1E |
+| 68 | Fiscalità nei Caraibi: cosa NON ti dicono su Saint Lucia, Grenada e BVI | 2026-05-02 | 459 | 33 | 0 | 11m31s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/hfGCVX-VT8c |
+| 69 | Perché Investire a Miami nel 2026? Mercato Immobiliare, Tasse e Opportunità | 2026-03-14 | 447 | 16 | 2 | 9m32s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/jGAcwMto6cY |
+| 70 | Guadalupa: il FALSO paradiso fiscale dei Caraibi | 2026-04-11 | 317 | 19 | 0 | 8m23s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/dWnp8ifok24 |
+| 71 | Tassa etica e Porno #tax #italia | 2026-02-11 | 281 | 9 | 0 | 2m21s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/Hi9QMzEBZu4 |
+| 72 | Trasferirsi in Messico e ottenere la seconda cittadinanza: inizia da qui | 2026-03-03 | 279 | 12 | 1 | 22m55s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/z1_6gtFX-xs |
+| 73 | Martinica NON è un paradiso fiscale (e nessuno te lo dice) | 2026-04-18 | 223 | 17 | 2 | 8m04s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/k47erdnWo9M |

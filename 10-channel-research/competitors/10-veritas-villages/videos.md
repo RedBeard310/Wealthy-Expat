@@ -1,0 +1,56 @@
+# Videos: Veritas Villages
+
+50 videos, sorted by view count descending.
+
+| # | Title | Published | Views | Likes | Comments | Duration | Content type | Funnel | Trending? | All-time? | URL |
+|---|---|---|---:|---:|---:|---:|---|---|:---:|:---:|---|
+| 1 | Playa Pacifica Resort – Nicaragua | 2023-12-04 | 7,185 | 196 | 12 | 23m21s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  | ✓ | https://youtu.be/X6gdMQ9e-vw |
+| 2 | Nicaragua: Your Gateway to Freedom, Sustainability, and Second Residency | 2024-12-30 | 4,382 | 158 | 10 | 4m43s | Hardcore Educational / How-To Content | super_close_to_the_money |  | ✓ | https://youtu.be/ZZBT6lTjLnk |
+| 3 | Inside Veritas Village Chiriquí: Panama’s Newest Off-Grid Luxury Community | 2025-06-24 | 3,446 | 115 | 20 | 29m27s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  | ✓ | https://youtu.be/Zna5m-8PRVk |
+| 4 | The Andalusian Model \| 3-Bedroom Beachfront Home at Playa Pacifica, Nicaragua | 2025-06-06 | 2,933 | 90 | 11 | 8m22s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  | ✓ | https://youtu.be/QeKGB70_At4 |
+| 5 | An Afternoon in Casco Viejo, Panama | 2022-08-05 | 2,369 | 21 | 1 | 2m56s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/PYoi50I4GGU |
+| 6 | Freedom Lovers Life - E9 - Singapore in Latin America, with Special Guest Alex Voss | 2024-08-05 | 2,258 | 37 | 8 | 39m18s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/-23f9ti7fzk |
+| 7 | Aruna Resort, Belize | 2022-04-29 | 2,005 | 18 | 0 | 1h40m | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/c5Li7o2Gw3E |
+| 8 | Veritas Village Coronado \| June 2025 Community & Construction Update | 2025-06-06 | 1,769 | 58 | 10 | 13m50s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/2_1BGXsmXG4 |
+| 9 | The Losino Model \| Tiny Living Elevated in Playa Pacifica, Nicaragua | 2025-06-06 | 1,490 | 53 | 8 | 10m34s | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/CS01__1pS00 |
+| 10 | EP 20: Get Out! Before Wealth and Exit Taxes Get You! | 2026-04-15 | 1,318 | 37 | 7 | 39m03s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/JnI3JhhLbuA |
+| 11 | Veritas Village - Playa Pacifica \| September 2025 Community Update | 2025-09-26 | 1,225 | 46 | 11 | 5m44s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/xabBLpnlfbM |
+| 12 | Veritas Village and the Surrounding Community | 2023-07-11 | 993 | 28 | 4 | 4m29s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/3Fqioq1QQDo |
+| 13 | Freedom Lovers Life - E1 - Why Leave Canada? - Taxation, with Special Guest Erik Vik | 2024-04-18 | 902 | 44 | 9 | 29m01s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/oqkN3LZHVoI |
+| 14 | Panama Relocation Webinar | 2022-03-04 | 867 | 22 | 3 | 1h30m | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/h-M9aN6RGuo |
+| 15 | Discover Veritas Village: Your future home in Coronado, Panama! 🏡🌿 #realestate #travel | 2024-02-22 | 712 | 14 | 1 | 0m41s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/Q4UWwZOcPa8 |
+| 16 | The Reef Tour with Patrick Hiebert - Extended | 2022-01-17 | 685 | 19 | 2 | 14m44s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/NhXN8N-Ae28 |
+| 17 | Introducing Veritas Village – Chiriquí, Panama #freedomliving | 2025-06-30 | 675 | 20 | 2 | 0m45s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/pbX7fyK0j7U |
+| 18 | Beachfront Living in Nicaragua | 2025-06-16 | 673 | 14 | 0 | 0m19s | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/okUp90wLZrg |
+| 19 | Building Freedom Communities \| Autris CEO at Playa Pacifica | 2025-07-15 | 579 | 33 | 6 | 42m56s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/OwH5Bflnxzg |
+| 20 | Freedom Lovers Life - E2 - Why Leave Canada? - Affordable Living, with Special Guest Erik Vik | 2024-04-26 | 536 | 22 | 7 | 32m28s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/KZS731EFlUg |
+| 21 | EcoVillages Life: building freedom and sustainability oriented communities throughout Latin America | 2024-03-01 | 511 | 6 | 0 | 0m07s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/M1YgWU71d70 |
+| 22 | Hybrid Solar Community on the Caribbean - The Reef EcoVillage Update | 2022-06-24 | 500 | 20 | 2 | 9m02s | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/L3sUQGy9e4k |
+| 23 | Freedom Lovers Life - Ep12 - Veritas Villages Sustainability with Patrick and Spencer Hiebert | 2024-12-11 | 497 | 29 | 2 | 43m41s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/IHDJuXiGbdo |
+| 24 | How We Live Fully Off-Grid in Panama \| Veritas Village - Coronado Solar Power System | 2025-12-01 | 457 | 23 | 6 | 7m03s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/ZlJ1M0xd75A |
+| 25 | Freedom Lovers Life -  Ep14 - Oh Canada My Home and Failing Land | 2025-04-05 | 448 | 23 | 7 | 25m03s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/v9EOek4Ak4o |
+| 26 | The Reef EcoVillage, Caribbean Coast Tiny Home Community | 2022-05-12 | 440 | 5 | 0 | 1h07m | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/Midby2t8MU8 |
+| 27 | A Weekend at Gran Pacifica | 2023-02-16 | 435 | 8 | 0 | 1m17s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/o1TUHU-2Gco |
+| 28 | A Visit to Milagro Verde (Our First Solar Community) | 2022-07-28 | 433 | 5 | 0 | 5m34s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/fP8CF4EJyCA |
+| 29 | Meet The Reef in La Ceiba, Honduras | 2024-01-31 | 423 | 8 | 0 | 2m42s | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/es_C0nGIWEg |
+| 30 | Playa Pacifica - June 2023 Construction Update | 2023-06-22 | 414 | 14 | 3 | 6m53s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/T7FX81j5XKk |
+| 31 | Freedom Lovers Life - E6 - How to Make a Living as an Expat, with Special Guest Chris Kelly | 2024-06-28 | 414 | 27 | 2 | 31m47s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/SM3zvpWZitQ |
+| 32 | Freedom Lover’s Life - EP15 - The Bitcoin Way - Tony Yazbeck talks truths! | 2025-07-07 | 407 | 20 | 6 | 34m17s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/IQBScP7NZbU |
+| 33 | Freedom Lovers Life - E2.5 - Why Leave Canada? - Help! Capital Gains Tax Increase! | 2024-05-02 | 393 | 14 | 4 | 23m59s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/RORwdb8yk7w |
+| 34 | Nicaragua Relocation Webinar | 2022-02-24 | 377 | 17 | 0 | 1h31m | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/hVUTHgo-_hk |
+| 35 | Explore Playa Pacifica and Design Your Dream Life: A Paradise at Gran Pacifica Resort | 2025-01-09 | 370 | 24 | 4 | 4m40s | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/vyb0UBogdeQ |
+| 36 | Pat and Andrea Visit Playa Pacifica | 2022-07-21 | 367 | 11 | 6 | 8m50s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/ynoqkwU0Pls |
+| 37 | From Playa Pacifica to Granada, Nicaragua | 2023-06-28 | 367 | 11 | 1 | 5m00s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/j-vHtRMr4Yg |
+| 38 | Freedom Lovers Life - E7 - Living a Freedom Oriented Life, with Special Guest Andrea Martinez | 2024-07-08 | 348 | 23 | 0 | 23m15s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/LJqi27Scfjc |
+| 39 | EcoVillages Relocation Webinar | 2022-02-21 | 344 | 11 | 1 | 1h53m | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/rdmgn9iB3Ms |
+| 40 | Full Size Solar Hybrid Home in Nicaragua - Casa Inge | 2022-08-04 | 341 | 10 | 0 | 6m13s | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/d-S-g7iq08c |
+| 41 | EP19 The Godfather of Bitcoin: Mike Peterson and How Bitcoin Beach Changed the World! | 2026-01-29 | 312 | 13 | 2 | 17m34s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/A6E-zR9RdKg |
+| 42 | Freedom Lovers Life - Why Leave Canada? E3 - Second Residency, with Special Guest Andrea Martinez | 2024-05-10 | 298 | 25 | 4 | 23m59s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/JMNtslgiszI |
+| 43 | Veritas Village - Coronado May 2026 Community Update \| Panama Freedom-Focused Living | 2026-05-02 | 294 | 22 | 7 | 5m44s | Results Reveals and Before/After Showcases | right_on_the_money |  |  | https://youtu.be/f2HtGkPEWPw |
+| 44 | The Reef at Gran Atlantida - June 2023 Update | 2023-06-22 | 287 | 10 | 0 | 2m02s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/k_JsipIz6jo |
+| 45 | Freedom Lovers Life - E10 - The Climate Change Obsession | 2024-10-15 | 251 | 23 | 1 | 15m03s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/1-nCsJ48cxo |
+| 46 | 4 Steps to Planting Your Flag in a New Country | 2022-03-15 | 229 | 11 | 2 | 1h39m | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/BcVH8UFpRZc |
+| 47 | EcoVillages Interview with John Breshers | 2022-01-17 | 218 | 7 | 2 | 4m01s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/A9vFxXwcIT0 |
+| 48 | Playa Pacifica Resort - Luxurious Solar Powered Living on the Beach! | 2024-10-01 | 218 | 6 | 3 | 3m00s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/5ECkCFGMuCM |
+| 49 | Freedom Lovers Life - E5 - Freedom Oriented Communities, Special Guest Mikkel Thorup of Expat Money | 2024-05-24 | 213 | 22 | 1 | 18m53s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/Q9bbLrI5rV0 |
+| 50 | Tiny Home Living in the Tropics | 2022-06-24 | 205 | 9 | 1 | 1h40m | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/iQdCSTPYh1I |

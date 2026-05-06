@@ -1,0 +1,57 @@
+# Videos: Truth Routes
+
+51 videos, sorted by view count descending.
+
+| # | Title | Published | Views | Likes | Comments | Duration | Content type | Funnel | Trending? | All-time? | URL |
+|---|---|---|---:|---:|---:|---:|---|---|:---:|:---:|---|
+| 1 | 10 Best Places for Black Retirees to Live Comfortably on $1,200/Month in 2025 | 2025-06-19 | 4,700 | 113 | 3 | 7m49s | Best-in-Class Curations | super_close_to_the_money |  | ✓ | https://youtu.be/LW8rvwMNTuA |
+| 2 | 10 Best U.S. Cities for Black Retirees to Live Well on a Budget – Affordable & Culturally Rich! | 2025-03-13 | 2,789 | 87 | 6 | 4m20s | Best-in-Class Curations | super_close_to_the_money |  | ✓ | https://youtu.be/5MWiWH-84uA |
+| 3 | Mango 🥭 Glass Fruit Slicing Relaxing ASMR #ASMR #kineticsand #rainbowsand #satisfying #shorts | 2025-06-27 | 1,946 | 12 | 0 | 0m09s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/vJqLu-hd_a0 |
+| 4 | 10 Best Countries Where Black Expats Thrive – No More Daily Racism! | 2025-02-24 | 1,634 | 56 | 4 | 5m53s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/eyCUwnKZIxQ |
+| 5 | Glass Fruit Slicing Relaxing ASMR #ASMR #kineticsand #rainbowsand #satisfying #shorts | 2025-06-26 | 1,632 | 9 | 0 | 0m08s | Reaction and Commentary Videos | basically_chasing_views |  |  | https://youtu.be/fMVmmG88wAg |
+| 6 | Why So Many Americans Are Moving to the Philippines in 2025 – The Real Reasons! | 2025-03-04 | 1,476 | 53 | 11 | 5m27s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/sNtGl_DUiMg |
+| 7 | Pineapple 🍍 Glass Fruit Slicing Relaxing ASMR #ASMR #kineticsand #rainbowsand #satisfying #shorts | 2025-06-28 | 1,373 | 17 | 0 | 0m08s | Challenge and Experiment Videos | basically_chasing_views |  |  | https://youtu.be/4ZR2W1T9Oac |
+| 8 | Strawberry  🍓 Glass Fruit Slicing Relaxing ASMR #ASMR #kineticsand #rainbowsand #satisfying #shorts | 2025-06-28 | 1,373 | 11 | 0 | 0m09s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/KWnelbVIRec |
+| 9 | Banana Glass Fruit Slicing Relaxing ASMR #ASMR #kineticsand #rainbowsand #satisfying #shorts | 2025-06-26 | 1,253 | 5 | 0 | 0m09s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/_1F6JiB92yw |
+| 10 | Jeep Wrangler Rubicon 392 Conquers Insane 85° Muddy Cliff! #shorts #jeep #jeepwrangler | 2025-06-15 | 1,232 | 11 | 0 | 0m16s | Challenge and Experiment Videos | basically_chasing_views |  |  | https://youtu.be/AzQcXUSSnUA |
+| 11 | Where Black Americans Are Moving (And Why!) | 2025-02-11 | 1,209 | 21 | 9 | 5m11s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/VjqF824aeh8 |
+| 12 | OTHER PEOPLE MAGIC TRICK VS THIS GUY 😲 #Sigma #Sigmamale #Aura #sigmarule #youtube shorts #trending | 2025-12-18 | 1,115 | 19 | 0 | 0m59s | Reaction and Commentary Videos | basically_chasing_views |  |  | https://youtu.be/f7nwCt0_h8Q |
+| 13 | This Monkey Tried to Be a King…Hilarious Results! 😂🐵👑 | 2025-10-13 | 1,077 | 16 | 0 | 0m33s | Reaction and Commentary Videos | basically_chasing_views |  |  | https://youtu.be/YtcTvuS3mg4 |
+| 14 | He Jumped Out of a Plane to Save the Amazon! ❤️🤯 #shorts | 2025-10-12 | 1,065 | 12 | 0 | 0m59s | Reaction and Commentary Videos | basically_chasing_views |  |  | https://youtu.be/memtZM_TtWE |
+| 15 | A Stranger’s Kindness That Changed a Mother’s Night 💔✨ #shorts | 2025-10-12 | 1,011 | 17 | 1 | 0m56s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/KeUk8dmO-PY |
+| 16 | 13 Years Protecting Kids: The Real-Life Guardian Angel of the Crosswalk 🚸❤️ | 2025-10-13 | 963 | 18 | 0 | 0m39s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/nJ4m5sSHG6k |
+| 17 | Glass Fruit Slicing Relaxing ASMR #ASMR #kineticsand #rainbowsand #satisfying #shorts #orange | 2025-06-27 | 901 | 4 | 0 | 0m09s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/uq2RcPI39HM |
+| 18 | 3 BEST Cities for Black Retirees 🇺🇸🖤 \| Retire Rich in Culture, Not Broke! | 2025-05-31 | 892 | 16 | 1 | 0m43s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/5DPfu-NrPSE |
+| 19 | 10 Best States for Black People Homeownership in US – Where You Can Thrive! | 2025-02-25 | 857 | 21 | 1 | 5m36s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/o8ZCfNZhiyo |
+| 20 | Others Life Hacks VS This Life Hacks😂 #trollface #edit #troll | 2025-12-17 | 844 | 12 | 0 | 1m00s | Reaction and Commentary Videos | basically_chasing_views |  |  | https://youtu.be/hHQ2WkNtFqk |
+| 21 | 10 U.S. States That Don’t Want Immigrants! (Avoid These!) | 2025-03-18 | 835 | 27 | 14 | 5m51s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/BFtjxt54A_A |
+| 22 | The 'Green Zones': 5 Tax-Friendly States to Retire in 2026 (Safe & Cheap) | 2025-12-25 | 814 | 11 | 4 | 6m54s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/W95uFWdm7YM |
+| 23 | A clear piece of ice breaks #ASMR #KineticSand #SliceAndCrush #Satisfying #Shorts | 2025-06-29 | 647 | 4 | 0 | 0m08s | Day in the Life / Behind-the-Scenes Content | basically_chasing_views |  |  | https://youtu.be/fdIuiQ0PiLY |
+| 24 | Unlocking Nature's Mystery: The Tree's Secret Revealed! #motivation #lifelessons | 2024-10-29 | 581 | 23 | 0 | 0m32s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/o6y3GqlsV30 |
+| 25 | Don’t Let Others Define Your Worth!  Part1 #lifelessons #motivation #wisdom #mindset #Shorts | 2024-11-02 | 569 | 26 | 3 | 0m58s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/fGzdOi88iII |
+| 26 | The Power of Kindness in a Cold World \| Part1 #lifelessons #motivation #wisdom #kindness | 2024-11-06 | 536 | 26 | 1 | 0m52s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/-JXjCZThP_s |
+| 27 | Don’t Let Others Define Your Worth!  Part2 #lifelessons #motivation #wisdom #mindset #Shorts | 2024-11-02 | 535 | 17 | 0 | 1m00s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/swf2OKzTL9Y |
+| 28 | These 10 Places Are Losing Their Black Communities – Why Are We Leaving? | 2025-03-02 | 532 | 14 | 4 | 6m59s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/7i3Pfix8JpA |
+| 29 | He Built His Dream House But Everyone Laughed! | 2024-11-02 | 530 | 26 | 1 | 1m58s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/tG755HLJDz8 |
+| 30 | The Power of Kindness in a Cold World \| Part 2 #lifelessons #motivation #wisdom #kindness | 2024-11-06 | 483 | 36 | 2 | 0m59s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/MWEPlD_HUuc |
+| 31 | Black Wealth Is SURGING in These 10 Cities – Here's Why | 2025-03-09 | 396 | 17 | 0 | 9m14s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/SdfZgevW1GY |
+| 32 | Top 5 African Countries to Retire Peacefully & Affordably \| Best Places for Diaspora Expats 🌍 | 2025-07-21 | 347 | 6 | 2 | 3m54s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/w9gmNObevvg |
+| 33 | 10 U.S. Cities Where Black Wealth Is Rising FAST (And Nobody's Talking About It) | 2025-06-10 | 311 | 19 | 0 | 7m26s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/ZlUjZteBCgo |
+| 34 | Don’t Retire Here! 10 States Most Americans Regret Moving To (2026) | 2025-12-23 | 288 | 12 | 0 | 6m55s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/zOxLeRImDeM |
+| 35 | Top 5 African Countries Offering Citizenship to the Diaspora \| Move to Africa in 2025 | 2025-07-06 | 284 | 8 | 19 | 3m54s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/kEpFEUMYYgs |
+| 36 | Americans Are Being TURNED AWAY From These 10 Countries in 2025 | 2025-04-28 | 207 | 3 | 0 | 7m03s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/1X8DHag110s |
+| 37 | Top 3 U.S. Cities Where Black Retirees Thrive on a Budget 🖤💵  #Shorts #Top10 #TravelHacks | 2025-06-01 | 198 | 5 | 0 | 1m07s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/uUlXnBDPSII |
+| 38 | The Great Tax Divorce: How to Legally Escape High-Tax States in 2026 | 2026-01-03 | 195 | 2 | 0 | 3m33s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/4N9Ou2B6xhU |
+| 39 | The Real Best Cities for Black Americans in 2025 | 2025-06-08 | 183 | 7 | 0 | 15m57s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/F4Uu3gyv2zM |
+| 40 | 10 Best States for Single Retirees in 2025 \| Affordable Living & Strong Senior Communities | 2025-07-01 | 153 | 5 | 0 | 4m47s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/0iIM6IRJKec |
+| 41 | Revolutionary! 5 States Are Eliminating Property Taxes | 2025-12-31 | 117 | 4 | 1 | 5m02s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/YJrbGAUsRzY |
+| 42 | Black Buying Power Hits $1.8 Trillion: Here's Where It's Happening | 2025-06-25 | 116 | 2 | 3 | 7m23s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/w28CWN1xSc8 |
+| 43 | The LAST Affordable U.S. Cities – Before It’s TOO Late! | 2025-03-26 | 110 | 6 | 0 | 4m40s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/RYlni70PHGY |
+| 44 | 10 Safe African Cities Where You Can Retire on $1,000/Month (2026 Guide) | 2025-12-07 | 90 | 8 | 0 | 6m43s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/ZubPLvHtsSg |
+| 45 | Is America Still the Best Country to Live In? | 2025-02-14 | 89 | 10 | 0 | 8m23s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/lXIJ8rKtjHA |
+| 46 | The 7 Most EXPENSIVE Cities To Avoid | 2025-06-16 | 88 | 2 | 0 | 3m54s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/SxgtXeG6hUo |
+| 47 | 🇧🇷 Brazil’s Untold History: From Indigenous Roots to Global Power 🇧🇷 | 2025-02-04 | 64 | 4 | 0 | 5m20s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/Rt0PLKheVxo |
+| 48 | The Hidden U.S. Towns Where You Can Live for CHEAP | 2026-01-08 | 62 | 0 | 0 | 7m04s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/aO-hHcGenBA |
+| 49 | The 5 BEST Warm States for Black Americans to Retire Stress-Free | 2025-09-07 | 58 | 4 | 0 | 8m42s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/WHJRC-5b8Rg |
+| 50 | The Cost of a Dream: Your Life from $12 to $100 Million | 2026-05-02 | 56 | 3 | 2 | 5m33s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/dXcxHPx3nHw |
+| 51 | 7 Countries Black Travelers Should Research Before Visiting in 2026 – Honest Guide | 2026-04-14 | 14 | 1 | 0 | 4m43s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/QWphakPbPQs |

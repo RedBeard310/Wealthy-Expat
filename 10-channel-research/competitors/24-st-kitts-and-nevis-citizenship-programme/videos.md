@@ -1,0 +1,77 @@
+# Videos: St. Kitts and Nevis Citizenship Programme
+
+71 videos, sorted by view count descending.
+
+| # | Title | Published | Views | Likes | Comments | Duration | Content type | Funnel | Trending? | All-time? | URL |
+|---|---|---|---:|---:|---:|---:|---|---|:---:|:---:|---|
+| 1 | St Kitts and Nevis - Sustainable Island State Contribution | 2024-01-23 | 2,405,107 | 167 | 0 | 0m37s | Cost and Pricing Breakdowns | right_on_the_money |  | ✓ | https://youtu.be/7eX7675GeC8 |
+| 2 | St Kitts and Nevis - The First. The Finest. | 2024-06-28 | 1,258,937 | 243 | 0 | 0m37s | Best-in-Class Curations | super_close_to_the_money |  | ✓ | https://youtu.be/KHKtjNqfiVk |
+| 3 | Exceptional Investment Opportunities | 2024-10-17 | 1,123,666 | 576 | 0 | 0m36s | Objection Handling and Myth-Busting | super_close_to_the_money |  | ✓ | https://youtu.be/eu8fgi-Eej4 |
+| 4 | Make a smart move today | 2024-11-19 | 982,942 | 57 | 4 | 0m33s | Objection Handling and Myth-Busting | super_close_to_the_money |  | ✓ | https://youtu.be/MStomzbe26k |
+| 5 | Exceptional investment opportunities for extraordinary investors | 2024-09-13 | 561,937 | 214 | 1 | 0m42s | Best-in-Class Curations | super_close_to_the_money |  | ✓ | https://youtu.be/T9k10EBZspc |
+| 6 | St. Kitts and Nevis A Sustainable Future Built with Purpose | 2026-03-30 | 253,045 | 14 | 1 | 0m52s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue | ✓ |  | https://youtu.be/yBPZj-xkcBw |
+| 7 | Who ensures your second citizenship is secure? | 2025-08-01 | 218,827 | 1 | 0 | 0m36s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/6SKGxEzaHzI |
+| 8 | Early Access Tickets Now Available \| Investment Gateway Summit 2026 | 2026-02-02 | 188,501 | 3 | 1 | 0m45s | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/vriAJ9ncUwk |
+| 9 | St. Kitts and Nevis Citizenship Programme Chairman Invitation to the 2026 Investment Gateway Summit | 2026-03-02 | 156,274 | 2 | 0 | 1m30s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue | ✓ |  | https://youtu.be/GYX-u5TSekQ |
+| 10 | St. Kitts and Nevis Citizenship Programme: A Future for Generations | 2026-04-22 | 134,258 | 0 | 0 | 0m54s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue | ✓ |  | https://youtu.be/r8zDlirDQ0k |
+| 11 | St. Kitts and Nevis: The World’s First Sustainable Island State \| Investment Spotlight \| Episode 5 | 2026-02-11 | 121,849 | 0 | 0 | 4m09s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue | ✓ |  | https://youtu.be/hSySh0i-bNw |
+| 12 | Why Attend the Investment Gateway Summit 2026 | 2026-04-17 | 90,922 | 0 | 0 | 0m36s | Reaction and Commentary Videos | basically_chasing_views | ✓ |  | https://youtu.be/11BS9X9r8uc |
+| 13 | Experience St Kitts and Nevis | 2023-08-17 | 82,027 | 8 | 3 | 1m09s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/TrwK6dUOEqI |
+| 14 | St Kitts and Nevis CIU – Fee Calculator | 2024-03-13 | 74,185 | 52 | 0 | 1m00s | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/sKQZZjct1OI |
+| 15 | St. Kitts and Nevis - Best Citizenship Programme 2024 | 2024-10-26 | 58,614 | 6 | 1 | 0m14s | Results Reveals and Before/After Showcases | right_on_the_money |  |  | https://youtu.be/mZo5vKyNYNs |
+| 16 | A Unique and Sustainable Pathway to Citizenship - The Contribution Option (SISC) | 2024-09-04 | 46,694 | 41 | 0 | 0m37s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/nk1ELhMl0YY |
+| 17 | 2024 EVENTS - St. Kitts and Nevis Investment Gateway Summit | 2024-05-09 | 39,325 | 161 | 0 | 0m28s | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/v8vIau4O8QE |
+| 18 | The St. Kitts and Nevis Citizenship Programme: Join a legacy of opportunity and global connection | 2025-08-22 | 39,294 | 15 | 25 | 2m07s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/_ifdEcxHx7k |
+| 19 | Why St Kitts and Nevis: The Premier Citizenship by Investment Programme | 2025-11-02 | 36,302 | 3 | 0 | 1m53s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/AQP1snX_8G4 |
+| 20 | The Citizenship Programme Application Process \| Investment Spotlight \| Episode 2 | 2025-10-24 | 34,901 | 4 | 1 | 3m09s | Process Walkthroughs / What It's Like to Work With Me | right_on_the_money |  |  | https://youtu.be/TbWnFozSJtg |
+| 21 | St Kitts And Nevis - Exceptional Investment Opportunities for Extraordinary Investors | 2024-07-26 | 31,873 | 210 | 0 | 0m37s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/aj5njKOzUbU |
+| 22 | St Kitts and Nevis CIU - Offering Exceptional Investment Opportunities for Extraordinary Investors! | 2024-02-21 | 30,088 | 23 | 1 | 0m37s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/pXdNvXWSTWs |
+| 23 | Prime Minister of St Kitts and Nevis - IGS 2024 - This is your invitation! | 2024-06-10 | 29,236 | 303 | 0 | 1m29s | Reaction and Commentary Videos | basically_chasing_views |  |  | https://youtu.be/qvHi2Q-wW4o |
+| 24 | St Kitts and Nevis Citizenship Programme Chairman Addresses Biometric Data Implementation | 2026-03-02 | 28,978 | 7 | 1 | 3m26s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/5TCI4yCq2FQ |
+| 25 | Investment Gateway Summit 2024 | 2024-02-29 | 27,604 | 16 | 0 | 1m17s | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/6gigR1Xv01Q |
+| 26 | IGS2025 - Your Summit Experience Awaits! | 2025-03-13 | 26,099 | 2 | 0 | 0m15s | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/XfXZP-sR-mI |
+| 27 | Reserve your seat at IGS 2025 \| St. Kitts, Caribbean | 2025-04-17 | 25,476 | 2 | 0 | 0m25s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/ZCfTkZLANWQ |
+| 28 | Investment Gateway Summit Launches Early Access Tickets | 2025-02-04 | 23,620 | 54 | 0 | 1m13s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/wCZ1zCWwh2Y |
+| 29 | Integrity \| Transparency \| Accountability | 2024-08-14 | 23,025 | 49 | 0 | 0m37s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/9flXX2ExGG8 |
+| 30 | Be part of The First wave - IGS 2025 | 2025-02-10 | 21,889 | 11 | 0 | 0m15s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/OS_7cxpTLy4 |
+| 31 | Why Choose the St. Kitts and Nevis Citizenship by Investment Programme | 2025-09-29 | 20,545 | 5 | 1 | 1m53s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/nOZzIAE1pvc |
+| 32 | The Sustainable Island State Contribution | 2025-03-06 | 20,224 | 24 | 0 | 0m35s | Cost and Pricing Breakdowns | right_on_the_money |  |  | https://youtu.be/kBtO3lkASFo |
+| 33 | The prestige and innovation of St. Kitts and Nevis CBI Programme | 2025-05-09 | 19,957 | 5 | 3 | 0m53s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/JoTH4pCjvL4 |
+| 34 | St. Kitts and Nevis Citizenship Programme: About the Programme \| Investment Spotlight \| Episode 1 | 2025-10-03 | 19,440 | 1 | 0 | 2m18s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/KtWSNrE4Jgw |
+| 35 | The Sustainable Island State Contribution (SISC): the most direct route to citizenship | 2025-08-15 | 13,019 | 4 | 0 | 0m30s | Cost and Pricing Breakdowns | right_on_the_money |  |  | https://youtu.be/PD2DuPJspLM |
+| 36 | What does your legacy look like? | 2025-03-26 | 12,728 | 10 | 1 | 2m07s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/b8wUxFI1M5U |
+| 37 | The 2025 St. Kitts and Nevis Investment Gateway Summit | 2025-04-16 | 12,436 | 0 | 0 | 0m26s | Reaction and Commentary Videos | basically_chasing_views |  |  | https://youtu.be/mmzWL5imqiE |
+| 38 | Exclusive Invitation: St Kitts and Nevis Investment Gateway Summit 2024 | 2024-03-25 | 10,311 | 29 | 0 | 1m03s | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/8SWp_Jt0V78 |
+| 39 | Investment Gateway Summit Launches Early Access Tickets | 2025-02-05 | 9,928 | 9 | 0 | 0m15s | Live Q&A Streams and Workshops | semi_optimized_for_revenue |  |  | https://youtu.be/De5oUXhrb9E |
+| 40 | What makes St. Kitts and Nevis a smart choice for investors? | 2025-07-26 | 9,780 | 1 | 0 | 0m53s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/mRjhyUmaCI0 |
+| 41 | St. Kitts and Nevis - USA | 2025-10-13 | 9,418 | 0 | 0 | 0m31s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/IeGSaMuG774 |
+| 42 | ST. KITTS AND NEVIS RETAINS ITS #1 POSITION IN THE 2025 CBI INDEX | 2025-09-13 | 7,966 | 4 | 1 | 0m52s | Results Reveals and Before/After Showcases | right_on_the_money |  |  | https://youtu.be/WtPzKZouDdQ |
+| 43 | IGS2025 - This is your invitation from the Prime Minister of St. Kitts and Nevis | 2025-02-21 | 7,711 | 22 | 0 | 2m38s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/Vx6aT5cULsE |
+| 44 | Join Us at the Investment Gateway Summit 2026 in St. Kitts and Nevis | 2026-03-24 | 7,110 | 0 | 0 | 1m09s | Reaction and Commentary Videos | basically_chasing_views |  |  | https://youtu.be/_UV_0TBI9po |
+| 45 | Invest in St. Kitts and Nevis – The Sustainable Island State Contribution | 2025-04-24 | 6,564 | 5 | 0 | 0m35s | Cost and Pricing Breakdowns | right_on_the_money |  |  | https://youtu.be/IkzGKbxhSyw |
+| 46 | St. Kitts and Nevis - CBI 101 Podcast - Episode 1 | 2024-12-16 | 6,534 | 154 | 3 | 47m06s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/7LTU-EVxMJk |
+| 47 | St. Kitts and Nevis Citizenship - Make a smart move today | 2024-12-12 | 6,383 | 17 | 0 | 0m33s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/8Va9chQLuS8 |
+| 48 | St Kitts and Nevis Citizenship by Investment introduces raft of changes | 2022-12-27 | 5,951 | 137 | 23 | 20m35s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/z0UuuCSf9Ys |
+| 49 | Secure citizenship for life. Invest with purpose with the Public Benefit Option. | 2025-06-13 | 5,947 | 25 | 0 | 0m52s | Cost and Pricing Breakdowns | right_on_the_money |  |  | https://youtu.be/_z90lwlSimM |
+| 50 | Best Citizenship Programme 2024 - St. Kitts and Nevis | 2024-09-30 | 4,467 | 6 | 0 | 0m39s | Results Reveals and Before/After Showcases | right_on_the_money |  |  | https://youtu.be/8XQEx7L6nTw |
+| 51 | What St. Kitts and Nevis Citizenship Really Means \| Investment Spotlight \| Episode 7 | 2026-04-13 | 4,111 | 0 | 0 | 2m19s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/femDwhvPngo |
+| 52 | St. Kitts and Nevis - Public Benefit Option | 2025-03-10 | 3,921 | 7 | 0 | 1m00s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/XDic6j1bc4I |
+| 53 | You Are Invited to the Investment Gateway Summit 2026 | 2026-04-24 | 3,645 | 3 | 0 | 2m02s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/eFZNjpb0Q8I |
+| 54 | St. Kitts and Nevis: A Secure and Stable Choice \| Investment Spotlight \| Episode 4 | 2026-02-11 | 184 | 2 | 0 | 4m16s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/Jqoh_LQlrrA |
+| 55 | Some lives are shaped by circumstance. Others are shaped by the choices we make for our families. | 2026-04-22 | 115 | 0 | 0 | 0m52s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/NVrxM9-U5sg |
+| 56 | Basseterre High School: Building the Future of Education \| Public Benefit Option | 2026-02-13 | 103 | 1 | 0 | 2m37s | Client Case Studies and Narrative Transformations | right_on_the_money |  |  | https://youtu.be/wTEFm1EdHjc |
+| 57 | Where Luxury Meets Purpose: The Royal St. Kitts Beach Resort | 2026-04-01 | 88 | 0 | 0 | 2m58s | Client Case Studies and Narrative Transformations | right_on_the_money |  |  | https://youtu.be/JRwdg8qmH_U |
+| 58 | Discover the Heart of St Kitts and Nevis! \| Investment Spotlight \| Episode 3 | 2026-02-23 | 86 | 1 | 0 | 2m21s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/xWcuCcaMmT4 |
+| 59 | Sustainability is not an ambition in St. Kitts and Nevis. | 2026-03-30 | 85 | 1 | 0 | 0m51s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/czULBGxIbJo |
+| 60 | National Housing Corporation: Building Homes, Building Futures \| Public Benefit Option | 2026-02-20 | 81 | 0 | 0 | 2m48s | Client Case Studies and Narrative Transformations | right_on_the_money |  |  | https://youtu.be/bthXxM_Q8oI |
+| 61 | Celebrating Chinese New Year with St. Kitts and Nevis | 2026-02-18 | 79 | 0 | 0 | 1m54s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/RmE4xDMm3ZM |
+| 62 | One Smart Investment. Generations of Impact. | 2026-03-19 | 74 | 0 | 0 | 0m33s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/EQ5cZckeltg |
+| 63 | FinCEN Advisory Rescinded A Milestone for the St. Kitts and Nevis Citizenship Programme | 2026-03-11 | 64 | 0 | 0 | 4m34s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/AHokYlEXIEU |
+| 64 | Prime Creative Arts Centre: Cultivating Creativity & Culture \| Public Benefit Option | 2026-02-28 | 42 | 0 | 0 | 3m02s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/y57BFEN7bqs |
+| 65 | In Investment Spotlight Episode 7, What St. Kitts and Nevis Citizenship Really Means | 2026-04-13 | 42 | 0 | 0 | 0m47s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/cm_n4JmBlo4 |
+| 66 | Inside the St Kitts and Nevis Roadshow in China with H.E. Calvin St. Juste | 2026-03-27 | 41 | 0 | 0 | 0m39s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/QvJXliIOk98 |
+| 67 | "Building homes, building futures", CBI 101 Podcast, Episode 3 | 2026-03-18 | 41 | 0 | 0 | 0m51s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/WFE5zeAUmrc |
+| 68 | "Tourism That Gives Back in St. Kitts and Nevis", CBI 101 Podcast, Episode 3 | 2026-02-25 | 39 | 0 | 0 | 1m22s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/rGzLwvKFjhs |
+| 69 | A bold new space for art and culture in St. Kitts and Nevis. 🎨 | 2026-02-27 | 37 | 2 | 0 | 1m54s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/1xX3V8XPmxc |
+| 70 | The Royal St. Kitts Beach Resort: Where luxury meets purpose. | 2026-04-01 | 25 | 0 | 0 | 2m26s | Client Case Studies and Narrative Transformations | right_on_the_money |  |  | https://youtu.be/izoFq33mP0U |
+| 71 | "A new home for culture and creativity is rising in St. Kitts and Nevis", CBI 101 Podcast, Episode 3 | 2026-03-06 | 3 | 0 | 0 | 1m17s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  |  | https://youtu.be/MSI83uohbv0 |

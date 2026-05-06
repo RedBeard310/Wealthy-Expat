@@ -1,0 +1,70 @@
+# Videos: Wali Global Partners
+
+64 videos, sorted by view count descending.
+
+| # | Title | Published | Views | Likes | Comments | Duration | Content type | Funnel | Trending? | All-time? | URL |
+|---|---|---|---:|---:|---:|---:|---|---|:---:|:---:|---|
+| 1 | How to Get Romania Work Visa? A Pakistani Working in Romania! | 2024-04-30 | 172,614 | 3,068 | 236 | 11m05s | Interview and Podcast-Style Conversations | semi_optimized_for_revenue |  | ✓ | https://youtu.be/R4UmteO8Ac0 |
+| 2 | How to Apply for Dubai,UAE 5 Years Tourist Visa in Pakistan? | 2024-01-18 | 133,502 | 4,915 | 325 | 8m36s | Hardcore Educational / How-To Content | super_close_to_the_money |  | ✓ | https://youtu.be/vMngj8COxng |
+| 3 | The Fastest Citizenship by Residency for Pakistani in 2024! | 2024-01-27 | 123,905 | 4,332 | 350 | 8m27s | Hardcore Educational / How-To Content | super_close_to_the_money |  | ✓ | https://youtu.be/xbw_EL1U6Ag |
+| 4 | How to Maintain Bank Statement for Any Visa in Pakistan? | 2024-01-16 | 96,703 | 2,983 | 386 | 8m50s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/DL--PtZnKDM |
+| 5 | Lifetime PR in 20 Days - No Residency Required & 100% Online | 2026-03-24 | 81,521 | 2,157 | 385 | 13m16s | Results Reveals and Before/After Showcases | right_on_the_money | ✓ |  | https://youtu.be/ZYDrM2D5QLc |
+| 6 | 23 Countries Where Pakistani Can Get Residency by Real Estate! | 2025-01-24 | 80,711 | 2,221 | 167 | 10m33s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/hdJneiX5u0U |
+| 7 | Which Country Gives Easy Schengen Visa in Pakistan? | 2024-01-10 | 73,993 | 1,441 | 201 | 10m31s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/P3HrvofuNO0 |
+| 8 | 7 Easy Countries Without Visa for Pakistani Passport in 2024 | 2024-01-29 | 69,411 | 1,660 | 187 | 8m42s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/BG57oJrf9TQ |
+| 9 | You Don't Need Visa for This European Country (Pakistani Passport) | 2024-05-20 | 67,761 | 1,293 | 188 | 5m46s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/q3Yk-aaNotY |
+| 10 | How to Get Indonesia Visa on Pakistani Passport in 2024? | 2023-12-16 | 51,968 | 1,030 | 91 | 4m08s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/lG5LGLURtco |
+| 11 | How to Get Thailand Visa in Pakistan - Thai Visa in 2024! | 2024-01-24 | 51,686 | 2,084 | 306 | 5m02s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/hHu6cd3NQBQ |
+| 12 | Lithuania Work Permit for Pakistani Passport in 2024 | 2024-06-11 | 49,168 | 1,400 | 183 | 8m16s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/U1u9GE4blc0 |
+| 13 | Palau e-Residency in 10 Days for Just $300 in 2026! | 2026-04-07 | 48,513 | 1,066 | 167 | 9m20s | Results Reveals and Before/After Showcases | right_on_the_money | ✓ |  | https://youtu.be/hz1WhaEE98Y |
+| 14 | The Cheapest Citizenship by Investment Program in 2024 | 2024-06-02 | 46,651 | 1,176 | 187 | 16m05s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/7CFiRfQfFlU |
+| 15 | 5 Best Citizenship by Birth Countries for Both Child & Parents! | 2025-01-01 | 44,910 | 1,094 | 149 | 8m21s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/jiC3RO3DVV0 |
+| 16 | How to Get Brazil Visa in Pakistan? Brazil Visa From Pakistan! | 2024-02-14 | 43,861 | 1,087 | 104 | 5m02s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/KI920zHPUTc |
+| 17 | How to Get Malaysia Visa in Pakistan? Malaysia eVisa in Pakistan! | 2024-02-01 | 42,587 | 1,243 | 93 | 4m33s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/IEqcLLM0eOA |
+| 18 | How I Got 10 Year US Visa? Best Tips to Get USA Visa in Pakistan! | 2024-04-13 | 41,622 | 1,029 | 244 | 8m23s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/mEcyCKrfmYU |
+| 19 | How to Get Brunei Visa from Pakistan? Best Tips for Brunei Visa! | 2024-04-07 | 40,854 | 899 | 70 | 3m51s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/pZNCDR78sMA |
+| 20 | How to Get UK Visa in Pakistan ? The Easiest Visa in Pakistan! | 2024-01-12 | 38,713 | 914 | 184 | 8m51s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/z0urJOLSVHw |
+| 21 | How to Get Bosnia Visa in Pakistan? Bosnia Visa for Pakistani! | 2024-04-05 | 38,240 | 1,189 | 76 | 5m28s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/J16vSwGkwWM |
+| 22 | How to Get USA Visa in Pakistan in 2024? Easy Way to Get US Visa! | 2024-01-14 | 37,288 | 974 | 170 | 11m09s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/2N0CzgQ3ghE |
+| 23 | Brazil Citizenship & Residency for Pakistani Passport Holders! | 2025-01-09 | 36,747 | 861 | 91 | 8m01s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/81nL3SybOnY |
+| 24 | 5 Most Difficult Countries in Europe to Get Citizenship! | 2024-05-02 | 34,222 | 726 | 143 | 8m25s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/tHsc0-MiWI4 |
+| 25 | How to Get Russia Visa in Pakistan? Russia Tourist Visa in 2024! | 2024-03-09 | 33,489 | 936 | 98 | 8m10s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/WQpuvDD6S54 |
+| 26 | Valid US Visa Free Countries for Pakistani Passport in 2024! | 2024-01-30 | 33,096 | 936 | 157 | 8m46s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/G6rcoalFsGI |
+| 27 | Get These Passports Before They Double the Price in June 2024! | 2024-04-15 | 32,327 | 607 | 69 | 4m43s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/RiOdgbB7Th4 |
+| 28 | How to Get India Visa in Pakistan? How Easy is an Indian Visa? | 2024-03-05 | 31,327 | 725 | 310 | 5m23s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/U_NtZqFw1h8 |
+| 29 | 30 + Visa Free Countries for Pakistani Passport in 2026 | 2026-01-15 | 29,748 | 790 | 56 | 8m33s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/i5kSDrNROyw |
+| 30 | Uzbekistan Invitation Letter & Visa for Pakistani Passport in 2025 | 2025-02-02 | 29,716 | 532 | 70 | 5m09s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/379-xnCX-lY |
+| 31 | How to Get Afghanistan Visa in Pakistan? Afghan Visa in Pakistan! | 2024-03-22 | 29,173 | 554 | 76 | 4m20s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/mmnT5h5WEAk |
+| 32 | Vanuatu Lifetime PR in 20 Days! Cost of Permanent Residency? | 2026-03-27 | 28,823 | 847 | 223 | 11m32s | Results Reveals and Before/After Showcases | right_on_the_money |  |  | https://youtu.be/0i8obPAWXsA |
+| 33 | 5 Countries to Get Fast Citizenship by Pakistani passport Holders! | 2024-11-28 | 27,902 | 850 | 129 | 8m01s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/thJZKl3IkX4 |
+| 34 | How I Got Canada Visa Easily in 2025? Canada Visa for Pakistani! | 2025-10-25 | 27,353 | 439 | 46 | 5m28s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/A5MxBkClfaI |
+| 35 | How to Get Cambodia Visa on Pakistani Passport in 2024? | 2023-12-02 | 27,275 | 453 | 42 | 5m35s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/uAGFNukz5c8 |
+| 36 | The Fastest Way to Get Argentina Citizenship in 2025 | 2024-12-28 | 26,966 | 741 | 113 | 8m56s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/dO0dowC725Q |
+| 37 | Second Passport in 35 Days - Fastest Citizenship by Investment! | 2026-03-20 | 26,556 | 723 | 91 | 17m12s | Results Reveals and Before/After Showcases | right_on_the_money |  |  | https://youtu.be/hzMbsDsyfhE |
+| 38 | 11 Easy Evisa Countries for Pakistani Passport Holders! | 2024-01-23 | 26,474 | 869 | 176 | 5m26s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/EpxOGYX6IFc |
+| 39 | France Easy Residency Visa with Bank Savings in 2026! | 2025-12-19 | 26,179 | 514 | 54 | 10m14s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/HJZwmd-F9g4 |
+| 40 | How to Get Singapore eVisa on Pakistani Passport in 2024? | 2024-01-31 | 25,713 | 844 | 142 | 4m33s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/0EBFEv7evZ0 |
+| 41 | How to Get UK eVisa from Pakistan in 2026? Good News For All! | 2026-03-25 | 25,362 | 498 | 96 | 8m04s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/WmjRZwOn-ds |
+| 42 | How to Get Australia Visa in Pakistan? Australia Easy Process! | 2024-01-15 | 24,382 | 632 | 99 | 10m03s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/VWKoduhnakk |
+| 43 | How to Get Brazil Passport in One Year? for Pakistani Citizens! | 2024-01-26 | 22,527 | 789 | 106 | 8m27s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/qMWF63I2j8Q |
+| 44 | How to Get Argentina Visa in Pakistan? Best Tips for Argentina Visa! | 2024-03-01 | 22,445 | 696 | 92 | 8m08s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/1YoOZ6wH1X0 |
+| 45 | How to Get Azerbaijan Citizenship by Investment (for Pakistani) | 2024-03-13 | 21,944 | 521 | 76 | 5m24s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/IAmwiB1mSkU |
+| 46 | How to Get South Korea Visa in Pakistan? South Korea Visa Tips! | 2024-01-28 | 21,708 | 579 | 87 | 5m26s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/ClxBHxLwvgk |
+| 47 | Get Easy Residency in Oman! 2 Years Investor Visa in Oman! | 2024-07-08 | 21,087 | 557 | 77 | 7m31s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/3z08nNbizNE |
+| 48 | How to Get USA E-2 Visa in Pakistan? | 2024-08-01 | 20,813 | 478 | 60 | 6m28s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/fa_7zXsbUR8 |
+| 49 | Kazakhstan Visa Invitation Letter for Pakistani Passport in 2025! | 2025-02-21 | 20,790 | 465 | 62 | 5m14s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/_buGxujhv8A |
+| 50 | How to Get Thailand eVisa on Pakistani Passport in 2024? | 2024-06-13 | 19,657 | 371 | 87 | 4m09s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/ALZ__O3L0ts |
+| 51 | Good News! Finally We Have Started Full Immigration/Visa Services! | 2026-03-14 | 13,634 | 579 | 171 | 13m30s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/ULYctzF99cE |
+| 52 | How to Get Portugal Residency in 2026? Best Options Explained! | 2026-03-23 | 13,590 | 370 | 89 | 12m31s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/nLaXurlCvhY |
+| 53 | How to Get Spain Residency in 40 Days? 3 Years Card in Spain! | 2026-04-27 | 13,489 | 341 | 63 | 8m05s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/J4bRbbENXhw |
+| 54 | How to Get Residency in Europe? Schengen Residency Options in 2026! | 2026-04-03 | 13,137 | 361 | 97 | 17m05s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/9wNb4pDqA-I |
+| 55 | How to Get Residency in Turkey by Investment in 2026? | 2026-04-12 | 9,905 | 209 | 67 | 12m05s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/IgtErRBZTK4 |
+| 56 | Cambodia Residency Visa - The Easiest Business Visa for Pakistani | 2026-02-26 | 9,897 | 272 | 97 | 6m50s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/C5VwNW_SUNo |
+| 57 | Almost Confirmed Visas On Pakistani Passport in 2026? | 2026-03-29 | 8,349 | 319 | 97 | 11m45s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/2DJT0hCcwUs |
+| 58 | How My Client Got Second Citizenship in 40 Days? Success Story! | 2026-05-03 | 7,371 | 221 | 73 | 10m36s | Client Case Studies and Narrative Transformations | right_on_the_money |  |  | https://youtu.be/whvHwSKP8Bw |
+| 59 | Permanent Residency in South Ameirca for Pakistani Passport! | 2026-04-05 | 6,934 | 270 | 56 | 13m13s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/sSk7_Bejz_Q |
+| 60 | Best Second Passsport by Investment! Which One to Choose in 2026? | 2026-04-09 | 5,451 | 166 | 41 | 12m09s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/W0eqX_6JOSY |
+| 61 | Join Group Tour with Me for Travel History & Experience! | 2026-03-26 | 4,345 | 233 | 104 | 9m33s | Personal Journey and Origin Stories | basically_chasing_views |  |  | https://youtu.be/na-vCFLQys4 |
+| 62 | How to Get Visa or Residency in 2026? Big Discount on Visa Guides! | 2026-02-07 | 3,817 | 136 | 25 | 8m17s | Cost and Pricing Breakdowns | right_on_the_money |  |  | https://youtu.be/D2iN9zEX3OE |
+| 63 | VANUATU PR IN 20 DAYS - YOU CAN'T APPLY YOURSELF! | 2026-03-31 | 3,198 | 116 | 27 | 9m23s | Results Reveals and Before/After Showcases | right_on_the_money |  |  | https://youtu.be/-Xyy7mGghwo |
+| 64 | HOW to AVOID VISA SCAM? DONE BASE VISA REALITY CHECK! | 2026-04-22 | 1,094 | 72 | 25 | 12m59s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/w94ya2akU9I |

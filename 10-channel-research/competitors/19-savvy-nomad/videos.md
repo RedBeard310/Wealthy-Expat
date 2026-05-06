@@ -1,0 +1,78 @@
+# Videos: Savvy Nomad
+
+72 videos, sorted by view count descending.
+
+| # | Title | Published | Views | Likes | Comments | Duration | Content type | Funnel | Trending? | All-time? | URL |
+|---|---|---|---:|---:|---:|---:|---|---|:---:|:---:|---|
+| 1 | Trump's 2025 Tax Law: What Expats Need to Know | 2025-08-28 | 317,303 | 11,580 | 1,085 | 4m24s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  | ✓ | https://youtu.be/NHiKC96HU24 |
+| 2 | Retired Expats Facing $3.6 Million in FBAR Penalties - Here's What They Did Wrong | 2026-02-11 | 83,110 | 1,731 | 690 | 7m06s | Deep-Dive Problem Diagnosis | right_on_the_money | ✓ | ✓ | https://youtu.be/KMXgVofwe04 |
+| 3 | Dual US Citizens Could LOSE Their Passport! Will the Government Ban Dual Citizenship for Good? | 2025-12-08 | 73,211 | 2,062 | 873 | 8m22s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  | ✓ | https://youtu.be/mTV4vYvnqtc |
+| 4 | Charles Schwab Bank Debit Card Review: The Best Debit Card for Nomads? | 2025-12-26 | 43,738 | 1,792 | 131 | 5m38s | Best-in-Class Curations | super_close_to_the_money |  | ✓ | https://youtu.be/znEghyGH1tI |
+| 5 | 12 Countries That Let Americans Stay Long-Term (No Visa Needed!) | 2025-10-27 | 41,304 | 1,387 | 180 | 7m38s | Best-in-Class Curations | super_close_to_the_money |  | ✓ | https://youtu.be/IZ8FMOv_i90 |
+| 6 | Social Security for US Expats: Get Your Payments While Living Abroad | 2025-09-22 | 39,272 | 2,227 | 95 | 6m20s | Hardcore Educational / How-To Content | super_close_to_the_money |  | ✓ | https://youtu.be/jkHREx6Lyuo |
+| 7 | Best US Banks and Fintechs for Expats: Move and Access Money Abroad | 2025-11-06 | 26,686 | 1,117 | 88 | 6m58s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/W_tFJghCS3M |
+| 8 | California Won't Let You Leave Without This | 2025-09-17 | 26,520 | 1,146 | 73 | 8m37s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/WHjogc9Q9ds |
+| 9 | How to Keep a US Bank Account While Living Abroad | 2025-07-16 | 23,752 | 923 | 79 | 6m26s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/slAm-i2tmFc |
+| 10 | Fastest Way to Become a Florida Resident: Get Your Domicile in 1 Day | 2025-07-28 | 19,188 | 1,061 | 28 | 6m33s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/zl3O8Phvy9Y |
+| 11 | Pay $0 ATM Fees With These 5 Travel Debit Cards: Easy Money Hack for US Nomads and Expats | 2025-12-11 | 15,296 | 644 | 47 | 7m54s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/Ei1A_sfIWGs |
+| 12 | Does Medicare Work Outside the US? Complete Guide for Expat Retirees | 2025-10-03 | 15,249 | 1,006 | 100 | 7m30s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/bnxeMVfkBl4 |
+| 13 | Top 5 Countries Where US Military Veterans Are Retiring | 2025-10-20 | 14,183 | 564 | 81 | 6m34s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/llgSWA2QL24 |
+| 14 | Europe Slams Door Shut on Expats | 2025-12-31 | 12,871 | 101 | 17 | 0m26s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/e3Q709zVK8Y |
+| 15 | How to Get South Dakota Residency in 2025: Tax Hack for Expats and Nomads | 2025-09-12 | 11,045 | 503 | 38 | 6m52s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/LbhPIikhH7U |
+| 16 | Screwed by the Patriot Act: Why Banks are Kicking Out Expats and Nomads in 2026 | 2026-02-26 | 9,371 | 528 | 78 | 5m49s | Deep-Dive Problem Diagnosis | right_on_the_money | ✓ |  | https://youtu.be/9to5d2HGKBk |
+| 17 | 40 Million Americans Could Lose Their Citizenship #expat #uscitizenship | 2025-12-09 | 8,255 | 159 | 12 | 0m42s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/WtGvKZBwjSs |
+| 18 | 6 Swiss Banks With U.S. Branches for Expats, Nomads, and Retirees | 2025-09-08 | 7,761 | 479 | 31 | 9m22s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/uUf8GmhdAt4 |
+| 19 | (Legally) Avoid US Taxes: Top Tax Breaks for Expats and Nomads | 2025-08-21 | 7,523 | 458 | 21 | 10m09s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/hS41pNYjKlU |
+| 20 | Why Expats Should Avoid South Dakota Residency in 2026: The Big Changes That Nobody Talks About | 2026-01-27 | 6,479 | 247 | 38 | 5m35s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/zK3Ouewun5I |
+| 21 | How to Keep Your US Phone Number as an Expat: Guide to Two-Factor Authentication in 2026 | 2026-03-13 | 6,410 | 363 | 58 | 8m02s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/bSwGmyu2TF0 |
+| 22 | $0 Federal Income Tax: Foreign Earned Income Exclusion (FEIE) Guide for US Taxpayers | 2025-08-13 | 5,338 | 217 | 9 | 12m04s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/rd6eKjCamXg |
+| 23 | Best and Worst U.S. Domicile States for Nomads and Expats  (2025): Optimize Your Taxes | 2025-06-11 | 4,614 | 104 | 1 | 5m16s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/cY4VqtuwbC0 |
+| 24 | FATCA: The $10,000 IRS Penalty Many Expats Miss | 2025-12-22 | 4,584 | 162 | 6 | 6m21s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/L9Yr3BsiXS8 |
+| 25 | How South Dakota Stopped Election Day Residents #politics #expat | 2026-01-30 | 4,404 | 49 | 3 | 1m06s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/q9YpJllEXO4 |
+| 26 | Zero tax visa that's actually easy to get 🇧🇸 #digitalnomad #visa #nomadlife | 2026-02-19 | 4,295 | 40 | 0 | 0m25s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/69Dn8XHRJsQ |
+| 27 | Portugal 🇵🇹 Changes Golden Visa #digitalnomad #expat #expatlife | 2025-11-11 | 4,271 | 37 | 3 | 0m38s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/4tNzHR0CNjA |
+| 28 | Nevada Residency: The Smart Bet for Paying ZERO State Income Tax | 2025-07-01 | 4,196 | 62 | 5 | 4m46s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/109YPxqO_AU |
+| 29 | Expats Losing Golden Visas: Portugal's New Rules #portugal #expat #update | 2025-11-25 | 4,132 | 16 | 1 | 0m22s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/FaiHLS8dPdU |
+| 30 | 9 Easiest Visas for Digital Nomads in 2026 | 2025-11-10 | 3,927 | 115 | 10 | 5m25s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/pr87tPMy1KE |
+| 31 | Why Thousands of American Expats Are Renouncing US Citizenship | 2025-10-24 | 3,887 | 151 | 27 | 7m00s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/epzFddXWrqQ |
+| 32 | 10 Best Countries for Expats in 2025 | 2025-10-16 | 3,756 | 121 | 17 | 8m13s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/WihdVDSIyas |
+| 33 | Which Countries Have Citizenship Based Taxation? #digitalnomad #expat #expatlife #tax | 2025-11-07 | 3,702 | 39 | 4 | 0m36s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/wZs5YBRQ3L4 |
+| 34 | Leaving the US Forever? Watch THIS Before You Move Abroad | 2025-08-05 | 3,697 | 180 | 9 | 7m57s | Framework and Methodology Breakdowns | right_on_the_money |  |  | https://youtu.be/b-10dAE5WMw |
+| 35 | IRS Penalties for #Expats | 2026-02-04 | 3,666 | 37 | 5 | 0m31s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/ypJMIDjxTb0 |
+| 36 | 183-Day Rule Explained: When Do You Become a US State Tax Resident? | 2025-09-01 | 3,588 | 213 | 6 | 7m03s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/5dKjKjCi-GE |
+| 37 | Paraguay 🇵🇾 residency #expat | 2025-12-19 | 3,557 | 34 | 3 | 0m36s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/vGtojzkKuDQ |
+| 38 | End Double Taxation of Expats? Update on Trump's Proposal | 2026-01-03 | 3,479 | 145 | 23 | 5m49s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/96nze4Sb9ug |
+| 39 | Texas Residency Explained: Big State Income Tax Savings for Nomads and Expats | 2025-07-08 | 3,446 | 54 | 2 | 6m31s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/H5ggSx683A0 |
+| 40 | Vietnam 🇻🇳 Proposes Golden Visa #digitalnomad #expat #expatlife | 2025-11-12 | 3,085 | 37 | 0 | 0m33s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/VCdJBv7FRks |
+| 41 | Escape High Taxes: Discover the Top 5 States for Easy Residency (2025) | 2025-05-23 | 3,083 | 111 | 6 | 9m49s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/SB1_U8fNdv4 |
+| 42 | Google Fi Review: Best International Phone Plan for Expats? | 2026-02-07 | 3,055 | 138 | 23 | 6m22s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/altGIWcE5mY |
+| 43 | US Passport Power Shrinks to Record Low: What Expats Need to Know | 2025-10-30 | 2,883 | 120 | 27 | 5m31s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/O5qJ_sVWN5w |
+| 44 | When Should Americans Abroad Renounce U.S. Citizenship? Full Breakdown of the Exit Tax & More | 2026-01-30 | 2,539 | 109 | 59 | 6m48s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/voVN_8Eo8Jw |
+| 45 | Domicile vs. Residence: Guide for U.S. Taxpayers | 2025-10-06 | 2,449 | 125 | 4 | 4m32s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/EjTmCG2UZoY |
+| 46 | Why Remote Workers Are Moving to Dubai 🇦🇪 #nomadvisa #expat #uae | 2026-02-26 | 2,282 | 11 | 1 | 0m24s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/BQHhzRqu_t8 |
+| 47 | Watch These Expat Trends for 2026: Big Predictions for the New Year | 2026-01-01 | 2,195 | 102 | 4 | 5m56s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/rYPg9TrAyVI |
+| 48 | Are You Making These Huge Expat Tax Mistakes? Watch This Video to Find Out | 2026-03-04 | 2,041 | 103 | 10 | 8m12s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/W00AAsMG_JE |
+| 49 | Bank of America Travel Rewards Card | 2026-03-20 | 1,931 | 16 | 0 | 0m38s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/18rLlHS2fng |
+| 50 | Will My 401(k) and IRA Work Abroad? Complete Guide for Expat Retirees | 2026-01-13 | 1,854 | 109 | 3 | 8m05s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/zhnOl9koq8Q |
+| 51 | Claim the Foreign Tax Credit (FTC) Guide for US Nomads and Expats | 2025-08-26 | 1,823 | 98 | 2 | 7m52s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/gcQjzJKkNqA |
+| 52 | These 7 States Are About to Raise Taxes - Get Out NOW | 2026-04-20 | 1,759 | 45 | 40 | 5m32s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/8f1ie4t0WGc |
+| 53 | US States Raising Taxes in 2026? 💰 High Earners Beware #Shorts | 2026-04-20 | 1,658 | 13 | 1 | 0m55s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/n_WqqZVeqrU |
+| 54 | One Small Tax Error Could Cost You Everything #expat #tax #warning | 2026-02-05 | 1,602 | 10 | 0 | 0m21s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/84qdk1QiIpk |
+| 55 | Don’t Forget These Tax Breaks | 2026-03-17 | 1,498 | 10 | 0 | 0m23s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/74yzf9fUqZM |
+| 56 | The Tax Mistake Every American Abroad Makes #expatlife #tax #mistake | 2026-03-11 | 1,382 | 15 | 0 | 0m42s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/dO02UlY9ecg |
+| 57 | Expats Are Missing This Tax-Saving Trick #taxes #moneyhacks | 2026-03-28 | 1,344 | 9 | 0 | 0m41s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/P19GBANhRb8 |
+| 58 | Expats Beat US Government in Fight Over Renunciation Fee: What Happens Now? | 2026-04-14 | 1,327 | 50 | 8 | 4m46s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/jT5OrjfpIBw |
+| 59 | US Expat? Slash Your Tax Bill with FEIE! | 2026-04-03 | 1,306 | 8 | 1 | 0m41s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/2_sRFCZTpcY |
+| 60 | 7 Countries With Tax-Free Digital Nomad Visas in 2026: Best Remote Work Permits for Saving Money | 2026-02-18 | 983 | 43 | 3 | 6m06s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/-2q-jTOf50E |
+| 61 | Best Zero Fee Credit Cards for Digital Nomads: Wells Fargo, Bank of America, Discover Travel Rewards | 2026-03-19 | 756 | 56 | 4 | 7m06s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/y_nzBzrtxqQ |
+| 62 | Best VPNs for Expats in 2026: Protect Your Privacy and Access Sites From Abroad | 2026-03-17 | 702 | 57 | 3 | 11m03s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/u0fBIgWc_ww |
+| 63 | Physical SIM vs eSIM for Digital Nomads: Complete Guide to Staying Connected | 2026-03-27 | 550 | 49 | 1 | 6m55s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/g4n8GbbzjxA |
+| 64 | The Biggest Expat Tax Break: Foreign Earned Income Exclusion (FEIE) Guide for 2026 | 2026-04-01 | 518 | 22 | 2 | 5m12s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/iNUjpiMbwEk |
+| 65 | Pay 0% State Tax in 2026? 👀 What Expats Must Know #Shorts | 2026-05-05 | 483 | 6 | 0 | 0m49s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/iHHIvjh_x-8 |
+| 66 | Best New Digital Nomad Visas for 2026: Requirements, Benefits, and More | 2026-04-09 | 451 | 21 | 0 | 4m26s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/_QlI6nKtD8U |
+| 67 | Self-Employment Tax for Digital Nomads and Expats: 2026 Guide | 2026-03-24 | 444 | 16 | 0 | 4m30s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/IauCIDl2q5Y |
+| 68 | DENIED Entry at the Border! Avoid These Big Digital Nomad Travel Mistakes | 2026-05-01 | 414 | 24 | 3 | 7m19s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/Sddm7ClDxac |
+| 69 | The Onward Travel Trap Digital Nomads Fall Into #digitalnomad #traveltips | 2026-05-01 | 406 | 6 | 0 | 0m39s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/4w4TATP9srw |
+| 70 | How StarVPN Helps You Appear to Work from a Static Location #nomad #digitalnomad | 2026-03-23 | 379 | 8 | 0 | 0m43s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/HawMj6K4Sk0 |
+| 71 | Where to Pay $0 in State Tax as a US Expat: 2026 Update | 2026-05-05 | 300 | 35 | 3 | 5m16s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/hNkVSsf0n-k |
+| 72 | This Passport Mistake Gets Digital Nomads Denied Entry #paylesstaxes #digitalnomad | 2026-05-01 | 297 | 7 | 0 | 0m38s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/lZPnktGNHYA |

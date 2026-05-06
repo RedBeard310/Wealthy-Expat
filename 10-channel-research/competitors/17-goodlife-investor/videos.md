@@ -1,0 +1,86 @@
+# Videos: Goodlife Investor
+
+80 videos, sorted by view count descending.
+
+| # | Title | Published | Views | Likes | Comments | Duration | Content type | Funnel | Trending? | All-time? | URL |
+|---|---|---|---:|---:|---:|---:|---|---|:---:|:---:|---|
+| 1 | This Country Gives You a FREE Passport for Opening Bank Account | 2025-11-30 | 84,190 | 2,615 | 223 | 8m39s | Hardcore Educational / How-To Content | super_close_to_the_money |  | ✓ | https://youtu.be/w9a7guHZNIU |
+| 2 | Breaking: Russia Offering FREE Citizenship To Foreigners… | 2023-06-18 | 48,180 | 1,030 | 333 | 5m43s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  | ✓ | https://youtu.be/Rj9mbXaNLTk |
+| 3 | How To Get The Mexican Residency Card in ONE Day \| Pathway To America's Strongest Citizenship | 2024-06-22 | 40,520 | 2,212 | 177 | 9m42s | Hardcore Educational / How-To Content | super_close_to_the_money |  | ✓ | https://youtu.be/1r9NqrUFe1M |
+| 4 | EU Residency in 15 days \| Lifelong \| No Physical Presence | 2025-09-08 | 36,135 | 847 | 110 | 8m40s | Versus and Comparison Videos | super_close_to_the_money |  | ✓ | https://youtu.be/U28T0R3SNzs |
+| 5 | Mauritius 50K Option \| Residency & Citizenship by Investment | 2023-10-09 | 28,919 | 413 | 16 | 0m39s | Best-in-Class Curations | super_close_to_the_money |  | ✓ | https://youtu.be/1mpcohi5IPk |
+| 6 | 5 Countries Where You Can Get Residency 100% Online — From Your Couch! | 2025-12-13 | 21,773 | 768 | 43 | 10m12s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/5OcElUmzCf8 |
+| 7 | How To Get South African Citizenship | 2023-10-08 | 21,732 | 282 | 8 | 0m22s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/2hqK8rxWs10 |
+| 8 | New ID & Online Residency in 15 MINUTES \| Can You Use This To Bypass US Crypto Laws (Legally)? | 2024-06-25 | 20,910 | 572 | 41 | 9m48s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/0T-Ibnlaxss |
+| 9 | How I Got the World’s Fastest Permanent Residency (In 30 Minutes) | 2026-04-02 | 19,297 | 424 | 42 | 17m19s | Hardcore Educational / How-To Content | super_close_to_the_money | ✓ |  | https://youtu.be/Kb79zcdb45I |
+| 10 | How To Get Mauritius Permanent Residency for ~1K USD - Mauritius Has The Strongest African Passport | 2023-03-10 | 18,188 | 548 | 32 | 0m38s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/3Lp9ey6mvaM |
+| 11 | Get THIS Permanent Residency in 24 hours — STRONG Passport | 2025-12-07 | 14,755 | 541 | 73 | 7m57s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/sHL6fV41APU |
+| 12 | Chile TWO Year Citizenship (ACT Fast) | 2024-03-21 | 13,015 | 355 | 44 | 8m03s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/NQIjVJvmZQI |
+| 13 | Lifelong EU Residency via Bank Deposit [2026 Guide] | 2026-03-01 | 12,983 | 328 | 47 | 8m45s | Hardcore Educational / How-To Content | super_close_to_the_money | ✓ |  | https://youtu.be/Gn5ekhP52-s |
+| 14 | How To Get Brazilian Citizenship | 2023-05-12 | 9,554 | 284 | 44 | 10m08s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/DtfWcvPavzw |
+| 15 | BREAKING: New Requirements for IMMEDIATE Spanish Permanent Residency And Pathway To CITIZENSHIP | 2023-11-11 | 8,538 | 169 | 39 | 7m05s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/m06LNfUBEiU |
+| 16 | Panama Joins Mercosur! Quickest Way to One of The Most Valuable Passports | 2025-01-06 | 8,516 | 243 | 38 | 9m23s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/_m5fMgCg9mc |
+| 17 | How To Get BRAZILIAN Citizenship in 1 Year \| NEW: No-one’s talked about this… | 2025-05-21 | 7,845 | 152 | 11 | 8m17s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/7OUaIL61ouU |
+| 18 | Permanent Residency & Passport on Arrival — 2 Countries Offer It! | 2026-02-15 | 7,391 | 254 | 27 | 15m36s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/YNtd7kS_HLI |
+| 19 | Cancel Paraguay Residency Immediately — It’s a Trap (Here’s Why) | 2026-03-14 | 7,185 | 165 | 74 | 8m41s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/7rPEj9L4a_M |
+| 20 | Breaking: Botswana Citizenship by Investment – What You Get! (Visa Free to Rare Countries) | 2025-09-27 | 7,122 | 213 | 46 | 9m45s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/herVT6Evlbo |
+| 21 | THIS Country Offers a Passport in 45–60 Days — Plus Permanent Residency Under £10K | 2026-02-06 | 7,026 | 225 | 27 | 7m54s | Cost and Pricing Breakdowns | right_on_the_money |  |  | https://youtu.be/_rHW-4K0_UE |
+| 22 | Get Two Passports Simply by Opening Bank Account | 2026-02-23 | 7,001 | 238 | 7 | 5m14s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/pFP7ayXhDYw |
+| 23 | Argentinian Citizenship for UAE and Pakistani Nationals | 2025-03-12 | 6,911 | 167 | 52 | 7m53s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/yhb7eTxESgw |
+| 24 | Grab This FAST: No Police Checks \| Permanent Residency Card in 1 Day \| Dual Citizenship in 4 Weeks | 2024-10-19 | 6,485 | 170 | 11 | 9m48s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/ShfJrYoivcU |
+| 25 | Everyone’s Quietly Buying These 3 Dirt-Cheap Passports | 2025-12-09 | 5,967 | 187 | 9 | 11m05s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/-fSdNrYB8Lg |
+| 26 | Be CAREFUL before doing Georgian Residency By Investment - Especially Nationals of THESE Countries… | 2023-01-29 | 5,830 | 98 | 17 | 3m42s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/bpz36R7S1V8 |
+| 27 | Best Country for a Strong Passport & Fast Citizenship (3-Day PR) | 2025-11-21 | 5,814 | 200 | 50 | 7m58s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/nh-TEpWKgPU |
+| 28 | Forget Citizenship — Don’t Get Residency in Paraguay Before Watching | 2025-10-16 | 5,405 | 125 | 31 | 6m46s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/kXYOKCOKd2Y |
+| 29 | How to get Residency in Argentina in 2025 \| One Day Precaria & Conversion to Citizenship | 2025-02-20 | 5,402 | 179 | 29 | 9m34s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/2Q7IE50TnMM |
+| 30 | 4 WAYS to Get Brazilian Permanent Residency, Citizenship & Passport #citizenshipbyinvestment | 2023-05-09 | 5,292 | 167 | 13 | 1m00s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/-CkNQiwpv80 |
+| 31 | Top 4 Countries in Latin America Where You Can Obtain Residency Without A Background Check | 2022-12-05 | 5,238 | 134 | 14 | 6m37s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/8VDtXdb9ogw |
+| 32 | A Magical Passport – That Takes You 🫵 Anywhere! | 2025-09-25 | 5,147 | 155 | 8 | 8m20s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/6Tql3PkM54I |
+| 33 | The Best Golden Visas in 2024 (Including Launch of New Residency Programs) | 2023-12-19 | 5,083 | 78 | 18 | 7m02s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/Ix1bED7jhnc |
+| 34 | World’s BEST Residency & CITIZENSHIP in 30 Days \| MEXICO and... | 2025-06-04 | 5,046 | 135 | 15 | 10m47s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/dc8ADmfd_OE |
+| 35 | 6 Almost FREE Citizenships You Can Run In Parallel With Flexible Residency | 2023-10-07 | 5,033 | 203 | 30 | 7m12s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/0W8R1E7xiE0 |
+| 36 | The Only 2 REAL Paths to EU Citizenship: Ireland vs. Malta | 2026-02-13 | 4,836 | 126 | 16 | 17m17s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/ZSBEJp3XSoI |
+| 37 | Get South African Citizenship before Mexico \| Here's how... | 2024-12-25 | 4,834 | 150 | 22 | 8m59s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/_pU-MoGwxHI |
+| 38 | 2 Unknown Ways to Get EU Citizenship \| 15-Day Residency | 2025-11-02 | 4,824 | 184 | 27 | 7m33s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/XaQzLUHwYfM |
+| 39 | How To Get Ecuador Citizenship | 2023-06-27 | 4,819 | 176 | 6 | 1m00s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/52YzgqsMWNM |
+| 40 | Africa SELLING Passports (15+ DAYS) | 2025-05-22 | 4,719 | 128 | 46 | 12m10s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/-JMe6hRt6yM |
+| 41 | Paraguay Residency & Second Passport SCAM (Stay CLEAR) | 2024-04-11 | 4,704 | 164 | 40 | 10m12s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/xq4bHpTTXio |
+| 42 | Latin America’s STRONGEST Citizenship Now in JUST 1 Year | 2025-06-01 | 4,677 | 119 | 23 | 11m11s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/k1M7hBWGEus |
+| 43 | How To Get Mexican Citizenship (Via. Residency) | 2023-10-13 | 4,638 | 101 | 5 | 0m56s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/4m1O9hVtBZs |
+| 44 | Show Salary and Get Powerful Citizenships in 2025 (Free Foreign Government Protection) | 2024-12-14 | 4,616 | 125 | 8 | 8m47s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/clDSi3vUwdM |
+| 45 | How To Get DIRECT Permanent Residency & Citizenship in MEXICO | 2024-10-11 | 4,483 | 125 | 17 | 10m35s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/0a11LA5KUlE |
+| 46 | This Golden Visa Is Skyrocketing in 2026 — Paper Path to Citizenship | 2026-01-23 | 4,401 | 127 | 23 | 9m29s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/rmIf66IUBJ4 |
+| 47 | The Passport Everyone’s Been Waiting for — Argentina Citizenship by Investment | 2026-03-13 | 4,296 | 102 | 15 | 13m31s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/KIEuglpa-wQ |
+| 48 | Get 2 CITIZENSHIPS in ~4 Months \| All You Need: Schengen (EU), UK, Ireland, China, Russia and… | 2025-05-27 | 4,271 | 106 | 16 | 9m50s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/wocPkHOJxRw |
+| 49 | Argentina Dual Citizenship Legal HACK | 2023-11-28 | 4,174 | 142 | 19 | 6m07s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/EvSqTXzKOHY |
+| 50 | NEW Malaysia MM2H Golden Visa Start Date \| Requirements for Platinum, Gold and SILVER | 2023-12-20 | 4,130 | 77 | 22 | 8m12s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/ig75Uv_eD4w |
+| 51 | The Safest Country in the World for Dual Citizenship | 2024-11-20 | 4,029 | 121 | 36 | 8m26s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/hzdmVkH4368 |
+| 52 | Belize Permanent Residency - Three quick and easy options to get an “almost free” PR , QRP or TRC | 2022-09-25 | 3,962 | 118 | 21 | 6m13s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/I4NH5NAbr0c |
+| 53 | 3 Quick Citizenships Without Investment in 2025 | 2025-02-20 | 3,940 | 141 | 10 | 10m04s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/_F7U-ADNito |
+| 54 | 3 IMMEDIATE Permanent Residency Permits for CITIZENSHIP in 2024 | 2024-08-20 | 3,905 | 168 | 30 | 10m10s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/ckB2J4nXvZg |
+| 55 | Buying The Best Asian Passport: Ultimate Guide | 2024-11-02 | 3,893 | 116 | 35 | 9m48s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/C2hH5cefJIM |
+| 56 | THIS Country Offers CITIZENSHIP for Investing in Fresh Coffee (Passport in a Couple of Weeks) | 2024-10-13 | 3,814 | 110 | 20 | 8m59s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/VjX7Ju4gs_8 |
+| 57 | 5 Countries YOU Can Move to in 24 Hours (And Stay Forever) | 2026-04-29 | 3,549 | 101 | 15 | 9m12s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/kdL9M56Y1Ik |
+| 58 | Fastest Way to Get EU Citizenship in 3 Years — Nobody Talks About | 2026-04-05 | 3,476 | 95 | 7 | 11m43s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/SisGLyQzH5M |
+| 59 | Open Bank Account Get Passport | 2026-03-01 | 2,894 | 143 | 3 | 1m43s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/rDLQrojuvrI |
+| 60 | 100% REMOTE Permanent Residency | 2026-02-07 | 2,873 | 92 | 9 | 3m00s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/MRvA6t0EwDM |
+| 61 | Not Informing Anyone! 5 Legal Citizenships for 100% Privacy | 2026-03-17 | 2,633 | 73 | 5 | 7m33s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/DCBCRP1cyng |
+| 62 | Passports Sold in Dubai (REMOTELY) — Are they Legal? | 2026-03-15 | 2,318 | 63 | 4 | 10m01s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/2SpdzH7ij9s |
+| 63 | 10 Countries Australians Can Move to in 24 Hours — And Stay Long term | 2026-02-05 | 2,318 | 24 | 2 | 8m48s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/tO7LFiEH2R8 |
+| 64 | How to Get 0% Tax (Non-Dom) Status in Ireland with a 60-Day Passport | 2026-02-14 | 2,199 | 48 | 3 | 11m15s | Versus and Comparison Videos | super_close_to_the_money |  |  | https://youtu.be/WFanHmFsGEI |
+| 65 | $75,000 Botswana Citizenship  — Is Waiting a Mistake? | 2026-02-28 | 2,157 | 45 | 15 | 13m35s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/kampgF86vKI |
+| 66 | Easy Permanent Residency on Landing | 2026-03-01 | 2,135 | 94 | 3 | 3m00s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/lqHZ1xpcyZA |
+| 67 | 3 Urgent Permanent Residencies as War Escalates in the Middle East | 2026-03-08 | 2,051 | 79 | 7 | 10m23s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/MSbHnpht0HY |
+| 68 | Fastest & Easiest Second Citizenships for Emergency Plan B (2026 Guide) | 2026-02-18 | 2,039 | 83 | 7 | 17m05s | Best-in-Class Curations | super_close_to_the_money |  |  | https://youtu.be/CUGnXZN2ovk |
+| 69 | Argentina vs. Botswana Citizenship by Investment 2026: Launch Dates, Costs & What’s Really Happening | 2026-02-11 | 2,021 | 62 | 7 | 17m07s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/ejJYu6a6XnE |
+| 70 | $90K Unlocks Dual Power: São Tomé Citizenship + South Africa… | 2026-02-17 | 1,995 | 64 | 14 | 12m48s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/lMI0dOQRjK0 |
+| 71 | Get Passport for Opening Bank Account | 2026-02-28 | 1,865 | 53 | 6 | 2m59s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/IV5qFHzTg3Q |
+| 72 | Journey from Stateless to #1 Passport in Days | 2026-02-09 | 1,843 | 76 | 15 | 7m40s | Hardcore Educational / How-To Content | super_close_to_the_money |  |  | https://youtu.be/hAXRY73mFIg |
+| 73 | How ETA & ETIAS Link Your Identities & Why Your Second Passport Just Became a "Red Flag" | 2026-02-25 | 1,722 | 44 | 13 | 12m23s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/o__X6MUOjBk |
+| 74 | £75,000 Passport — and you can include almost anyone | 2026-02-07 | 1,689 | 49 | 18 | 7m31s | Cost and Pricing Breakdowns | right_on_the_money |  |  | https://youtu.be/Kg3TQmZcGc4 |
+| 75 | Reality of EU Citizenship in 2026 — What Actually Works | 2026-02-24 | 1,474 | 37 | 16 | 6m03s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/UfCuXJQqUfI |
+| 76 | How CBI Passports may HURT Canadians, Americans, Australians and Other Western Nationals | 2026-02-25 | 1,419 | 55 | 11 | 12m11s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/embAKp7tQK8 |
+| 77 | WARNING: How CBI Passports Can Secretly Ruin Your Life in 2026 | 2026-02-19 | 1,396 | 62 | 9 | 16m16s | Deep-Dive Problem Diagnosis | right_on_the_money |  |  | https://youtu.be/r0gJEWTyKBI |
+| 78 | Switch Your Passport RIGHT NOW | 2026-02-16 | 1,285 | 31 | 9 | 18m06s | Hot Takes and Contrarian Opinions | semi_optimized_for_revenue |  |  | https://youtu.be/HeHKw6b3aiM |
+| 79 | Cheap Passports that keep Your Citizenship Secret | 2026-02-27 | 1,260 | 37 | 8 | 11m38s | Industry Trend Analysis and Predictions | semi_optimized_for_revenue |  |  | https://youtu.be/0_jViwvD2Jo |
+| 80 | UK ETA & EU ETIAS EXPOSED: How to Bypass — + 2026’s KING of CBI Passports 👑 | 2026-02-26 | 1,105 | 26 | 2 | 12m28s | Objection Handling and Myth-Busting | super_close_to_the_money |  |  | https://youtu.be/mWfExQHkCRw |

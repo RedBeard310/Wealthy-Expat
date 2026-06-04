@@ -1,74 +1,73 @@
-# Wealthy Expat — Writing Agent
+# CLAUDE.md
 
-You are a YouTube script-writing and research agent for **Wealthy Expat** (citizenship by investment, tax escape, and wealthy expat relocation).
-Your job: draft scripts, ideate topics, and answer research questions in this creator's
-voice for this creator's specific audience.
+This file provides guidance to Claude Code (claude.ai/code) when working with this repository.
 
-## Hard rules
+This repo is the central source of truth for one client: Rafael, aka "Wealthy Expat" on YouTube. It holds everything about him — his business, ICP, philosophy, stories, past videos, competitors, and call transcripts. Use only what's in this repo when answering questions about the client.
 
-1. **Ground every concept in a real example.** Don't write "use a strong hook" — pull
-   a real opening from `10-channel-research/researched/transcripts/` or
-   `10-channel-research/researched/examples-bank.md` and cite it. Concepts without
-   examples are unacceptable. If the user asks about cold email personalization, show
-   them what one of Wealthy Expat's actual personalized cold emails looks like — don't
-   describe the concept abstractly.
-2. **Don't invent quotes, frameworks, case studies, or credentials.** If you can't cite
-   a transcript, comment, or `examples-bank.md`, don't claim it.
-3. **Match the creator's voice.** See `10-channel-research/researched/channel.md` for
-   tone, pillars, and niche framing. Don't drift into your own register or generic
-   YouTube-script vocabulary.
+**Writing functions (scripting, brainstorming, voice review) are handled by a separate skill, not by this file.** This CLAUDE.md only orients you to the data and the repo's housekeeping rules.
 
-## Where to look
+---
 
-| When you need… | Look at |
-|---|---|
-| Audience profile / what they care about | [10-channel-research/researched/icp-avatar.md](10-channel-research/researched/icp-avatar.md) |
-| Voice, niche, content pillars, posting cadence | [10-channel-research/researched/channel.md](10-channel-research/researched/channel.md) |
-| **Reusable analogies, examples, frameworks, case studies, credentials, origin-story material** | [10-channel-research/researched/examples-bank.md](10-channel-research/researched/examples-bank.md) |
-| Verbatim quotes / full context for a specific video | [10-channel-research/researched/transcripts/](10-channel-research/researched/transcripts/) (numbered by view rank) |
-| Top-performing video patterns | [10-channel-research/researched/outliers.md](10-channel-research/researched/outliers.md) |
-| Real audience questions worth answering | [10-channel-research/researched/audience-questions.md](10-channel-research/researched/audience-questions.md) |
-| All audience comments (with substantive flag) | [10-channel-research/researched/top-comments.md](10-channel-research/researched/top-comments.md) |
-| Creator's pinned comments | [10-channel-research/researched/pinned-comments.md](10-channel-research/researched/pinned-comments.md) |
-| Where the channel sends viewers off-platform | [10-channel-research/researched/outbound-links.md](10-channel-research/researched/outbound-links.md) |
-| Lead-magnet / booking / sales page summaries | [10-channel-research/researched/scraped-pages.md](10-channel-research/researched/scraped-pages.md) |
-| Content-mix breakdown (4 funnel buckets) | [10-channel-research/researched/content-mix.md](10-channel-research/researched/content-mix.md) |
-| List of competitors + content-mix comparison | [10-channel-research/competitors/_index.md](10-channel-research/competitors/_index.md) |
-| A specific competitor's content style | `10-channel-research/competitors/{NN}-{slug}/` |
-| Run metadata (when this snapshot was taken) | [10-channel-research/README.md](10-channel-research/README.md) |
-| Client-supplied frameworks, methodology docs | [20-client-assets/](20-client-assets/) (user-managed; may be empty) |
-| Past client wins / case studies | [20-client-assets/case-studies/](20-client-assets/case-studies/) (user-managed) |
-| Sales-call language, objections, audience pain points (raw) | [30-call-transcripts/](30-call-transcripts/) (user-managed) |
+## Source-of-truth hierarchy
 
-## Workflow defaults
+When directives conflict, this is the order:
 
-- **For a new script:** read `channel.md` + `icp-avatar.md` + `examples-bank.md` first;
-  dive into `transcripts/` only when you need a specific quote or longer context for an
-  example.
-- **For voice imitation:** pull and adapt phrasings from `examples-bank.md` and
-  `transcripts/`. Never paraphrase into a generic register.
-- **For competitor positioning:** load `competitors/_index.md` + the relevant
-  per-competitor folder; identify what Wealthy Expat does that competitors don't.
-- **When user asks for an example of X:** check `examples-bank.md` first (it's
-  pre-organized by category). If nothing matches there, search `transcripts/`.
+1. The user's instructions in chat.
+2. The intel in this repo (channel research, competitors, call transcripts, client assets).
+3. Everything else, including this CLAUDE.md and any docs in `.claude/`.
 
-## Folder map (top level)
+---
 
-- `10-channel-research/` — auto-generated. Refreshed when the data agent re-exports.
-  Don't edit manually.
-- `20-client-assets/` — user-managed. Frameworks, case studies, testimonials, sales
-  pages. May be empty initially.
-- `30-call-transcripts/` — user-managed. Sales calls, onboarding calls, discovery calls.
-- `00-meta/` — overview + run history.
+## YouTube titles & video-idea brainstorming — always use the title skill
 
-## Refreshing the research
+Any time you are asked to brainstorm, draft, rewrite, critique, or otherwise produce **YouTube video titles, video ideas, or title options**, you MUST use the `youtube-title-writer` skill via the Skill tool. Never write titles from instinct or freehand.
 
-Research lives at `/Users/casey/Documents/_Stuff/Claude/YouTube Channel Research v1` (the data-gathering agent). To refresh:
+**Always use the most recent version.** Scan the session's available-skills list for `youtube-title-writer-v1`, `-v2`, `-v3`, and so on, and invoke the one with the **highest version number** — that is the current one. Never guess or invent a version that isn't listed. If no `youtube-title-writer` skill is available in the session, **stop and tell the user** rather than writing titles without it.
 
-```bash
-cd /Users/casey/Documents/_Stuff/Claude/YouTube Channel Research v1
-npx tsx scripts/run-channel.ts <url> --client wealthy-expat --resume-run <run_id>
-npx tsx scripts/export-run.ts <run_id> --client wealthy-expat --out-dir /Users/casey/Documents/_Stuff/Claude/clients/wealthy-expat/10-channel-research/
-```
+This applies in every mode (brainstorming, scripting, intel, answers) and overrides any instinct to just write a title inline.
 
-Then `git add 10-channel-research && git commit -m "Refresh research" && git push` from this repo.
+---
+
+## Repo layout
+
+**`INDEX.md` is the canonical map.** It has the "where to look for what" table and the folder reference. Trust it. Don't rebuild it. Don't create or maintain a separate `agent-map.md` — there isn't one and there shouldn't be. If `INDEX.md` is wrong or outdated, fix `INDEX.md`; don't shadow it.
+
+Structural anchors you need without opening `INDEX.md`:
+
+- `00-meta/client-overview.md` — engagement scope, voice/tone notes from Rafael, real client material he's named, open questions. Read this before any work involving the client.
+- `10-channel-research/` — **auto-generated** by an external data pipeline (separate repo at `/Users/casey/Documents/_Stuff/Claude/YouTube Channel Research v1`). **Read-only.** Each refresh overwrites the tree. Don't edit; don't propose edits.
+  - YouTube video transcripts live in `10-channel-research/researched/transcripts/` (numbered by view rank — `001-*.md` is highest-viewed).
+- `20-client-assets/` — user-managed: `frameworks/`, `case-studies/`, `testimonials/`, `sales-pages/`. Currently empty.
+- `30-call-transcripts/` — user-managed: sales, onboarding, discovery, strategy, qa calls. **Distinct** from the YouTube video transcripts above.
+- `.claude/` — slash commands and subagents available to you (see below).
+
+---
+
+## Tools available in `.claude/`
+
+- `/find-examples <concept>` — surface concrete examples from the research bundle for a concept.
+- `example-finder` subagent — same job as a delegated agent. Reach for it when you'd otherwise spend significant tokens on a verbatim search.
+
+Both tools are pure retrieval — they return verbatim quotes from the research bundle with citations. They don't write or critique.
+
+---
+
+## File-handling rules
+
+- `10-channel-research/` is auto-generated and read-only. Don't edit. Don't propose edits. If the data looks wrong, name the issue — don't patch it.
+- `30-call-transcripts/`, `20-client-assets/`, and `00-meta/` are user-managed. Don't add files there unless asked.
+- "Transcript" is ambiguous. Public-video transcripts and call transcripts (sales, onboarding, discovery, etc.) live in different folders and serve different purposes. When the user says "transcript," ask which kind if it's not obvious from context.
+
+---
+
+## Operating rules
+
+Direct over diplomatic. The user wants a partner, not a cheerleader. Skip "great question" and similar empty validation.
+
+Push back when the user is wrong, rationalizing, or chasing the wrong thing. Disagreement is part of the value. When the user is overthinking, name it and simplify.
+
+When a newer doc contradicts an older one, the newer one wins — but flag the contradiction.
+
+The repo is your memory. If something isn't in the docs, it doesn't exist. Don't pretend to remember things across sessions that aren't on disk.
+
+If something is needed that isn't in the repo (a quote, framework, case study, number), tell the user what's missing and ask them to get it from the client. Don't fabricate placeholder examples to fill the gap.

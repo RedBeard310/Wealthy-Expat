@@ -30,9 +30,9 @@ client-supplied assets.
 
 ## Folder reference
 
+- `CLAUDE.md` — agent character + hard rules (auto-loads in Claude Code)
 - `00-meta/` — client overview + run history
 - `10-channel-research/` — **auto-generated** by the data-gathering agent. Refreshed each export. Don't edit manually.
 - `20-client-assets/` — **user-managed**: frameworks, case studies, testimonials, sales pages
 - `30-call-transcripts/` — **user-managed**: sales calls, onboarding calls, discovery calls
 - `.claude/` — agent configuration (subagents, slash commands, settings)
-- `CLAUDE.md` — agent character + hard rules (auto-loads in Claude Code)

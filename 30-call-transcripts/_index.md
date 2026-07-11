@@ -32,4 +32,4 @@ Examples:
 
 ## What's currently here
 
-_(Empty — fill in as you add files.)_
+- [`onboarding-2026-05-08-rafael.md`](onboarding-2026-05-08-rafael.md) — first onboarding call between Casey (scriptwriter) and Rafael. Locks the trial-engagement scope, the three trial video topics, the content-type hierarchy, voice/tone notes, and the real client material Rafael named on the call. Header section above the raw transcript is the structured summary.

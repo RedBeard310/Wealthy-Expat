@@ -2,7 +2,7 @@
 description: Find concrete examples for a specific concept from the research bundle. Returns verbatim quotes with transcript citations.
 ---
 
-Find concrete examples in the {{client_name}} research bundle that ground this concept:
+Find concrete examples in the Wealthy Expat research bundle that ground this concept:
 
 **Concept:** $ARGUMENTS
 
@@ -24,4 +24,4 @@ For each example you return, give:
 If you genuinely can't find any real example for this concept in the research,
 say so explicitly. **Don't invent examples and don't fall back to generic ones.**
 The writer needs to know honestly whether this concept is or isn't already grounded
-in {{client_name}}'s content.
+in Wealthy Expat's content.

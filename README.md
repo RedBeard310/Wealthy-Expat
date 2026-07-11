@@ -13,7 +13,7 @@ This repo is one half of a two-repo system:
 ## Quick start (after cloning)
 
 ```bash
-cd /Users/casey/Documents/_Stuff/Claude/clients/wealthy-expat
+cd "/Users/casey/Documents/_Stuff/Claude/Rafael - Wealthy Expat - Writing Agent"
 claude        # opens Claude Code with CLAUDE.md auto-loaded
 ```
 
@@ -47,13 +47,13 @@ npx tsx scripts/run-channel.ts <youtube-url> --client wealthy-expat \\
 
 # Export the run into this writing repo
 npx tsx scripts/export-run.ts <run_id> --client wealthy-expat \\
-  --out-dir /Users/casey/Documents/_Stuff/Claude/clients/wealthy-expat/10-channel-research/
+  --out-dir "/Users/casey/Documents/_Stuff/Claude/Rafael - Wealthy Expat - Writing Agent/10-channel-research/"
 ```
 
 Then back in this repo:
 
 ```bash
-cd /Users/casey/Documents/_Stuff/Claude/clients/wealthy-expat
+cd "/Users/casey/Documents/_Stuff/Claude/Rafael - Wealthy Expat - Writing Agent"
 git add 10-channel-research
 git commit -m "Refresh research from <run_id>"
 git push

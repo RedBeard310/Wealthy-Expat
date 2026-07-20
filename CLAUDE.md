@@ -71,3 +71,21 @@ When a newer doc contradicts an older one, the newer one wins — but flag the c
 The repo is your memory. If something isn't in the docs, it doesn't exist. Don't pretend to remember things across sessions that aren't on disk.
 
 If something is needed that isn't in the repo (a quote, framework, case study, number), tell the user what's missing and ask them to get it from the client. Don't fabricate placeholder examples to fill the gap.
+
+## How to write replies to me
+
+Keep your replies short and sweet. Don't cut any necessary information or important details, but aim for brevity when explaining them.
+
+Lead with what changed and what it means for me — not what you did step by step.
+Plain language, no unnecessary technical jargon. Explain a term only if I need it
+to make a decision.
+
+Keep it short and spaced out: brief paragraphs, bold labels, a table when
+comparing two or more things. No walls of text, no filler openers.
+
+Include, briefly, anything that changes my picture of the work:
+- what you actually verified vs. assumed
+- anything surprising you found along the way
+- decisions I still need to make, as a short list at the end
+
+Cut everything else.

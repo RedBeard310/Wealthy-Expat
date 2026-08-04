@@ -130,3 +130,16 @@ Fallback (ONLY if the canonical file is unreachable): zero em dashes; level-2 dr
 House default for research / mining / synthesis work is `openrouter:deepseek/deepseek-v3.2`. Model ids are configuration and are committed; API keys stay in the shared env. Env-based model selection is banned — the Mac clobbers the VPS env file every ~2 minutes, which silently reverted a swap and burned ~$22 of unplanned Sonnet on 2026-07-31.
 
 To change a model: edit `models.json` and commit. Do not hard-code a model id in any module.
+
+<!-- REPORTS-AND-ARTIFACTS -->
+## Reports & Artifacts (house law — wired 2026-08-04)
+
+Every human-facing **HTML report** is saved to disk, published as an artifact, and **opens with a share-link banner** carrying its artifact URL. **Never leave a report living only as an artifact URL** — that is how reports get lost. Read the standard before writing one:
+
+- Mac: `~/Claude/casey-assistant/brain/infrastructure/reports-and-artifacts.md`
+- VPS: `/home/casey/repos/casey-assistant/brain/infrastructure/reports-and-artifacts.md`
+
+Short version: house reports go to `casey-assistant/reports/<domain>/`. A report **about a client** goes to **both** `casey-assistant/reports/clients/<slug>/` **and** this repo's `50-reports/`, byte-identical. **casey-assistant is canonical** — edit there, then copy over the mirror; never edit the mirror directly. Every report gets a row in `casey-assistant/reports/INDEX.md`.
+
+Publish order (the URL doesn't exist until the first publish): write the HTML → publish → insert the banner with the real URL → publish again with the same file path, which redeploys to the same URL.
+<!-- /REPORTS-AND-ARTIFACTS -->

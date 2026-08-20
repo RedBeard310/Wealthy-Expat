@@ -126,16 +126,9 @@ Fallback (ONLY if the canonical file is unreachable): zero em dashes; level-2 dr
 Headless `claude -p` in automation bills Casey's Max subscription, never the Anthropic API. Never let `ANTHROPIC_API_KEY` into a spawned claude's environment, and never pass `--bare`. Full law with the three protection layers: `~/Claude/casey-assistant/CLAUDE.md`, same section.
 <!-- /SUBSCRIPTION-NOT-API -->
 
-## Model Policy (house law — wired 2026-08-01)
+## Model Policy (house law)
 
-**Which LLM this repo uses for any task is set in `models.json` at the repo root — never in code, never in env.** Read the house standard before changing a model or adding an LLM call:
-
-- Mac: `~/Claude/casey-assistant/brain/infrastructure/model-policy.md`
-- VPS: `/home/casey/repos/casey-assistant/brain/infrastructure/model-policy.md`
-
-House default for research / mining / synthesis work is `openrouter:deepseek/deepseek-v3.2`. Model ids are configuration and are committed; API keys stay in the shared env. Env-based model selection is banned — the Mac clobbers the VPS env file every ~2 minutes, which silently reverted a swap and burned ~$22 of unplanned Sonnet on 2026-07-31.
-
-To change a model: edit `models.json` and commit. Do not hard-code a model id in any module.
+If an LLM call is ever added to this repo, its model comes from a committed `models.json`, never from code or env. Full standard: `~/Claude/casey-assistant/brain/infrastructure/model-policy.md`.
 
 <!-- REPORTS-AND-ARTIFACTS v1 — managed block; writing-agent slim variant -->
 ## Reports & Artifacts (house law)

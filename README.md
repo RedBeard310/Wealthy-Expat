@@ -5,7 +5,7 @@ Specialized Claude Code workspace for writing scripts and ideating content for t
 
 This repo is one half of a two-repo system:
 - **Data-gathering agent** (separate repo) scrapes the channel + competitors into
-  Airtable, then exports a markdown research bundle into this repo's
+  Postgres, then exports a markdown research bundle into this repo's
   `10-channel-research/` folder.
 - **This repo** (the writing agent) reads that bundle plus any client-supplied
   assets, and helps draft scripts in the creator's voice.
